@@ -1,0 +1,821 @@
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Successfully connected to the database.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.
+Batch processed: 0 notifications queued.----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Successfully connected to the database.----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Successfully connected to the database.----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Successfully connected to the database.2024-07-13 10:30:26 [info]: Successfully connected to the database.
+2024-07-13 10:30:26 [info]: Checking for attacks since: 2024-07-13 10:15:26
+2024-07-13 10:30:26 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:30:26 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:30:26 [warning]: No Blood Nexus URL found for victim ID: 4
+2024-07-13 10:30:26 [warning]: No Blood Nexus URL found for victim ID: 1
+2024-07-13 10:30:26 [info]: No notifications to send in this batch.
+2024-07-13 10:30:26 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:30:26 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-13 10:34:47 [info]: Successfully connected to the database.
+2024-07-13 10:34:47 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 0, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/b1abf3b5-5b36-44ed-7246-3f3ff55556a7
+2024-07-13 10:34:47 [info]: Checking for attacks since: 2024-07-13 10:19:47
+2024-07-13 10:34:47 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:34:47 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:34:47 [info]: Processing attack for victim ID: 4
+2024-07-13 10:34:47 [info]: Querying database for Blood Nexus URL for victim ID: 4
+2024-07-13 10:34:47 [info]: No Blood Nexus entry found for victim ID 4
+2024-07-13 10:34:47 [warning]: No valid Blood Nexus URL found for victim ID: 4
+2024-07-13 10:34:47 [info]: Processing attack for victim ID: 1
+2024-07-13 10:34:47 [info]: Querying database for Blood Nexus URL for victim ID: 1
+2024-07-13 10:34:47 [info]: Blood Nexus entry found for victim ID 1. notify_attack: 0, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/b1abf3b5-5b36-44ed-7246-3f3ff55556a7
+2024-07-13 10:34:47 [info]: Blood Nexus notifications are disabled for victim ID 1
+2024-07-13 10:34:47 [warning]: No valid Blood Nexus URL found for victim ID: 1
+2024-07-13 10:34:47 [info]: No notifications to send in this batch.
+2024-07-13 10:34:47 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:34:47 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-13 10:35:16 [info]: Successfully connected to the database.
+2024-07-13 10:35:16 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/1d3f76cb-0a55-a8c0-fc58-c80976bdcc24
+2024-07-13 10:35:16 [info]: Checking for attacks since: 2024-07-13 10:20:16
+2024-07-13 10:35:16 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:35:16 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:35:16 [info]: Processing attack for victim ID: 4
+2024-07-13 10:35:16 [info]: Querying database for Blood Nexus URL for victim ID: 4
+2024-07-13 10:35:16 [info]: No Blood Nexus entry found for victim ID 4
+2024-07-13 10:35:16 [warning]: No valid Blood Nexus URL found for victim ID: 4
+2024-07-13 10:35:16 [info]: Processing attack for victim ID: 1
+2024-07-13 10:35:16 [info]: Querying database for Blood Nexus URL for victim ID: 1
+2024-07-13 10:35:16 [info]: Blood Nexus entry found for victim ID 1. notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/1d3f76cb-0a55-a8c0-fc58-c80976bdcc24
+2024-07-13 10:35:16 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:26:39
+2024-07-13 10:35:16 [info]: Notification queued for victim portexploits (ID: 1) with 1 attacks.
+2024-07-13 10:35:16 [info]: Batch processed: 1 notifications queued.
+2024-07-13 10:35:16 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:35:16 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-13 10:37:29 [info]: Successfully connected to the database.
+2024-07-13 10:37:29 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:37:29 [info]: Checking for attacks since: 2024-07-13 10:22:29
+2024-07-13 10:37:29 [info]: Found 3 attacks in the last 15 minutes.
+2024-07-13 10:37:29 [info]: Query executed. Found 3 rows to process.
+2024-07-13 10:37:29 [info]: Processing attack for victim ID: 4
+2024-07-13 10:37:29 [info]: Querying database for Blood Nexus URL for victim ID: 4
+2024-07-13 10:37:29 [info]: No Blood Nexus entry found for victim ID 4
+2024-07-13 10:37:29 [warning]: No valid Blood Nexus URL found for victim ID: 4
+2024-07-13 10:37:29 [info]: Processing attack for victim ID: 1
+2024-07-13 10:37:29 [info]: Querying database for Blood Nexus URL for victim ID: 1
+2024-07-13 10:37:29 [info]: Blood Nexus entry found for victim ID 1. notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:37:29 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:26:39
+2024-07-13 10:37:29 [info]: Processing attack for victim ID: 1
+2024-07-13 10:37:29 [info]: Blood Nexus URL for victim ID 1 found in cache.
+2024-07-13 10:37:29 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:36:13
+2024-07-13 10:37:29 [info]: Notification queued for victim portexploits (ID: 1) with 2 attacks.
+2024-07-13 10:37:29 [info]: Batch processed: 1 notifications queued.
+2024-07-13 10:37:29 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:37:29 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-13 10:40:05 [info]: Successfully connected to the database.
+2024-07-13 10:40:05 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:40:05 [info]: Checking for attacks since: 2024-07-13 10:25:05
+2024-07-13 10:40:05 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:40:05 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:40:05 [info]: Processing attack for victim ID: 1
+2024-07-13 10:40:05 [info]: Querying database for Blood Nexus URL for victim ID: 1
+2024-07-13 10:40:05 [info]: Blood Nexus entry found for victim ID 1. notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:40:05 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:26:39
+2024-07-13 10:40:05 [info]: Processing attack for victim ID: 1
+2024-07-13 10:40:05 [info]: Blood Nexus URL for victim ID 1 found in cache.
+2024-07-13 10:40:05 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:36:13
+2024-07-13 10:40:05 [info]: Notification queued for victim portexploits (ID: 1) with 2 attacks.
+2024-07-13 10:40:05 [info]: Batch processed: 1 notifications queued.
+2024-07-13 10:40:05 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:40:05 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-13 10:41:07 [info]: Successfully connected to the database.
+2024-07-13 10:41:07 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:41:07 [info]: Checking for attacks since: 2024-07-13 10:26:07
+2024-07-13 10:41:07 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:41:07 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:41:07 [info]: Processing attack for victim ID: 1
+2024-07-13 10:41:07 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:41:07 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:41:07 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:26:39
+2024-07-13 10:41:07 [info]: Processing attack for victim ID: 1
+2024-07-13 10:41:07 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:41:07 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:41:07 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:36:13
+2024-07-13 10:41:07 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:41:07 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:41:07 [info]: Batch processed: 2 notifications queued.
+2024-07-13 10:41:07 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:41:07 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 2
+2024-07-13 10:42:08 [info]: Successfully connected to the database.
+2024-07-13 10:42:08 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:42:08 [info]: Checking for attacks since: 2024-07-13 10:27:08
+2024-07-13 10:42:08 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:42:08 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:42:08 [info]: Processing attack for victim ID: 1
+2024-07-13 10:42:08 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:42:08 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:42:08 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:36:13
+2024-07-13 10:42:08 [info]: Processing attack for victim ID: 1
+2024-07-13 10:42:08 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:42:08 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:42:08 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:42:03
+2024-07-13 10:42:08 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:42:08 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/787ee0fb-4861-ac9f-f8ca-13371e1bf461
+2024-07-13 10:42:08 [info]: Batch processed: 2 notifications queued.
+2024-07-13 10:42:08 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:42:08 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 2
+2024-07-13 10:49:50 [info]: Successfully connected to the database.
+2024-07-13 10:49:50 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:49:50 [info]: Checking for attacks since: 2024-07-13 10:34:50
+2024-07-13 10:49:50 [info]: Found 3 attacks in the last 15 minutes.
+2024-07-13 10:49:50 [info]: Query executed. Found 3 rows to process.
+2024-07-13 10:49:50 [info]: Processing attack for victim ID: 1
+2024-07-13 10:49:50 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:49:50 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:49:50 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:36:13
+2024-07-13 10:49:50 [info]: Processing attack for victim ID: 1
+2024-07-13 10:49:50 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:49:50 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:49:50 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:42:03
+2024-07-13 10:49:50 [info]: Processing attack for victim ID: 1
+2024-07-13 10:49:50 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:49:50 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:49:50 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:49:35
+2024-07-13 10:50:17 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:50:17 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:50:17 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:50:17 [info]: Batch processed: 3 notifications queued.
+2024-07-13 10:50:17 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:50:17 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 3
+2024-07-13 10:53:30 [info]: Successfully connected to the database.
+2024-07-13 10:53:30 [info]: Blood Nexus entry: tracked_player_id: 1, notify_attack: 1, URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:53:30 [info]: Checking for attacks since: 2024-07-13 10:38:30
+2024-07-13 10:53:30 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:53:30 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:53:30 [info]: Processing attack for victim ID: 1
+2024-07-13 10:53:30 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:53:30 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:53:30 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:42:03
+2024-07-13 10:53:30 [info]: Processing attack for victim ID: 1
+2024-07-13 10:53:30 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:53:30 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:53:30 [info]: Processed attack: Victim ID 1, Attacker ID 40, Date: 2024-07-13 10:49:35
+2024-07-13 10:53:57 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:53:57 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:53:57 [info]: Batch processed: 2 notifications queued.
+2024-07-13 10:53:57 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:53:57 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 2
+2024-07-13 10:56:51 [info]: Successfully connected to the database.
+2024-07-13 10:56:51 [info]: Checking for attacks since: 2024-07-13 10:41:51
+2024-07-13 10:56:51 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 10:56:51 [info]: Query executed. Found 2 rows to process.
+2024-07-13 10:56:51 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 10:56:51 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 10:57:19 [info]: Notification queued for victim portexploits (ID: 1) to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b with 1 attacks.
+2024-07-13 10:57:19 [info]: Batch processed: 1 notifications queued.
+2024-07-13 10:57:19 [info]: Query executed. Found 0 rows to process.
+2024-07-13 10:57:19 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-13 11:20:58 [info]: Successfully connected to the database.
+2024-07-13 11:20:58 [info]: Checking for attacks since: 2024-07-13 11:05:58
+2024-07-13 11:20:58 [info]: Found 0 attacks in the last 15 minutes.
+2024-07-13 11:20:58 [info]: No attacks found in the last 15 minutes. Exiting.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-13 11:21:13 [info]: Successfully connected to the database.
+2024-07-13 11:21:13 [info]: Checking for attacks since: 2024-07-13 11:06:13
+2024-07-13 11:21:13 [info]: Found 1 attacks in the last 15 minutes.
+2024-07-13 11:21:13 [info]: Query executed. Found 1 rows to process.
+2024-07-13 11:21:13 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:21:13 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:21:40 [info]: Notification queued for URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b with 1 attacks.
+2024-07-13 11:21:40 [info]: Batch processed: 1 notifications queued.
+2024-07-13 11:21:40 [info]: Query executed. Found 0 rows to process.
+2024-07-13 11:21:40 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-13 11:21:55 [info]: Successfully connected to the database.
+2024-07-13 11:21:55 [info]: Checking for attacks since: 2024-07-13 11:06:55
+2024-07-13 11:21:55 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 11:21:55 [info]: Query executed. Found 2 rows to process.
+2024-07-13 11:21:55 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:21:55 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:22:22 [info]: Notification queued for URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b with 2 attacks.
+2024-07-13 11:22:22 [info]: Batch processed: 1 notifications queued.
+2024-07-13 11:22:22 [info]: Query executed. Found 1 rows to process.
+2024-07-13 11:22:22 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:22:22 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:22:49 [info]: Notification queued for URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b with 1 attacks.
+2024-07-13 11:22:49 [info]: Batch processed: 1 notifications queued.
+2024-07-13 11:22:49 [info]: Query executed. Found 0 rows to process.
+2024-07-13 11:22:49 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 2
+2024-07-13 11:26:41 [info]: Successfully connected to the database.
+2024-07-13 11:26:41 [info]: Checking for attacks since: 2024-07-13 11:11:41
+2024-07-13 11:26:41 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 11:26:41 [info]: Query executed. Found 2 rows to process.
+2024-07-13 11:26:41 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:26:41 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:26:42 [info]: Notification sent to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b with 2 attacks.
+2024-07-13 11:26:42 [info]: Batch processed: 1 notifications sent.
+2024-07-13 11:26:42 [info]: Query executed. Found 1 rows to process.
+2024-07-13 11:26:42 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:26:42 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:26:43 [info]: Notification sent to URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b with 1 attacks.
+2024-07-13 11:26:43 [info]: Batch processed: 1 notifications sent.
+2024-07-13 11:26:43 [info]: Query executed. Found 0 rows to process.
+2024-07-13 11:26:43 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 2
+2024-07-13 11:32:44 [info]: Successfully connected to the database.
+2024-07-13 11:32:44 [info]: Checking for attacks since: 2024-07-13 11:17:44
+2024-07-13 11:32:44 [info]: Found 2 attacks in the last 15 minutes.
+2024-07-13 11:32:44 [info]: Query executed. Found 2 rows to process.
+2024-07-13 11:32:44 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:32:44 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:32:45 [info]: Notification sent to 1 URLs with 2 attacks.
+2024-07-13 11:32:45 [info]: Batch processed: 1 notifications sent.
+2024-07-13 11:32:45 [info]: Query executed. Found 1 rows to process.
+2024-07-13 11:32:45 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:32:45 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:32:46 [info]: Notification sent to 1 URLs with 1 attacks.
+2024-07-13 11:32:46 [info]: Batch processed: 1 notifications sent.
+2024-07-13 11:32:46 [info]: Query executed. Found 0 rows to process.
+2024-07-13 11:32:46 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 2
+2024-07-13 11:42:58 [info]: Successfully connected to the database.
+2024-07-13 11:42:58 [info]: Checking for attacks since: 2024-07-13 11:27:58
+2024-07-13 11:42:58 [info]: Query executed. Found 0 victims to process in this batch.
+2024-07-13 11:42:58 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-13 11:43:24 [info]: Successfully connected to the database.
+2024-07-13 11:43:24 [info]: Checking for attacks since: 2024-07-13 11:28:24
+2024-07-13 11:43:24 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-13 11:43:24 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:43:24 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:43:25 [info]: Notification sent to 1 URLs with 2 attacks.
+2024-07-13 11:43:25 [info]: Batch processed: 1 notifications sent.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-13 11:44:00 [info]: Successfully connected to the database.
+2024-07-13 11:44:00 [info]: Checking for attacks since: 2024-07-13 11:29:00
+2024-07-13 11:44:00 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-13 11:44:00 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:44:00 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:44:01 [info]: Notification sent to 1 URLs with 2 attacks.
+2024-07-13 11:44:01 [info]: Batch processed: 1 notifications sent.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-13 11:46:41 [info]: Successfully connected to the database.
+2024-07-13 11:46:41 [info]: Checking for attacks since: 2024-07-13 11:31:41
+2024-07-13 11:46:41 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-13 11:46:41 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:46:41 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-13 11:46:41 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-13 11:46:41 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-13 11:47:04 [info]: Successfully connected to the database.
+2024-07-13 11:47:04 [info]: Checking for attacks since: 2024-07-13 11:32:04
+2024-07-13 11:47:04 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-13 11:47:04 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-13 11:47:04 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/5d051f15-6b65-eddc-2772-96698924736b
+2024-07-13 11:47:05 [info]: Notification sent to 1 URLs with 2 attacks.
+2024-07-13 11:47:05 [info]: Batch processed: 1 notifications sent.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-14 13:20:10 [info]: Successfully connected to the database.
+2024-07-14 13:20:10 [info]: Checking for attacks since: 2024-07-14 13:05:10
+2024-07-14 13:20:10 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 13:20:10 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 13:20:10 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 13:20:10 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 13:20:10 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 13:20:26 [info]: Successfully connected to the database.
+2024-07-14 13:20:26 [info]: Checking for attacks since: 2024-07-14 13:05:26
+2024-07-14 13:20:26 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 13:20:26 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 13:20:26 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 13:20:26 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 13:20:26 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 13:52:30 [info]: Successfully connected to the database.
+2024-07-14 13:52:30 [info]: Checking for attacks since: 2024-07-14 13:37:30
+2024-07-14 13:52:30 [info]: Query executed. Found 0 victims to process in this batch.
+2024-07-14 13:52:30 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 13:52:50 [info]: Successfully connected to the database.
+2024-07-14 13:52:50 [info]: Checking for attacks since: 2024-07-14 13:37:50
+2024-07-14 13:52:50 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 13:52:50 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 13:52:50 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 13:52:50 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 13:52:50 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 13:53:47 [info]: Successfully connected to the database.
+2024-07-14 13:53:47 [info]: Checking for attacks since: 2024-07-14 13:38:47
+2024-07-14 13:53:47 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 13:53:47 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 13:53:47 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 13:53:47 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 13:53:47 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 13:54:49 [info]: Successfully connected to the database.
+2024-07-14 13:54:49 [info]: Checking for attacks since: 2024-07-14 13:39:49
+2024-07-14 13:54:49 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 13:54:49 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 13:54:49 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 13:54:49 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 13:54:49 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 13:58:31 [info]: Successfully connected to the database.
+2024-07-14 13:58:31 [info]: Checking for attacks since: 2024-07-14 13:43:31
+2024-07-14 13:58:31 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 13:58:31 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 13:58:31 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 13:58:31 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 13:58:31 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 13:58:51 [info]: Successfully connected to the database.
+2024-07-14 13:58:51 [info]: Checking for attacks since: 2024-07-14 13:43:51
+2024-07-14 13:58:51 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 13:58:51 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 13:58:51 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 13:58:51 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 13:58:51 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 14:06:11 [info]: Successfully connected to the database.
+2024-07-14 14:06:11 [info]: Checking for attacks since: 2024-07-14 13:51:11
+2024-07-14 14:06:11 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 14:06:11 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 14:06:11 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 14:06:11 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 14:06:11 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 14:06:47 [info]: Successfully connected to the database.
+2024-07-14 14:06:47 [info]: Checking for attacks since: 2024-07-14 13:51:47
+2024-07-14 14:06:47 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 14:06:47 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 14:06:47 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 14:06:47 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 14:06:47 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 14:07:49 [info]: Successfully connected to the database.
+2024-07-14 14:07:49 [info]: Checking for attacks since: 2024-07-14 13:52:49
+2024-07-14 14:07:49 [info]: Query executed. Found 0 victims to process in this batch.
+2024-07-14 14:07:49 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 14:08:08 [info]: Successfully connected to the database.
+2024-07-14 14:08:08 [info]: Checking for attacks since: 2024-07-14 13:53:08
+2024-07-14 14:08:08 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 14:08:08 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 14:08:08 [info]: Blood Nexus entry found for victim ID 1. URL: http://simhost-0725d54e64c6632e1.agni.secondlife.io:12046/cap/f2d6c2b4-35df-a43c-859d-2b79292616b7
+2024-07-14 14:08:09 [info]: Notification sent to 1 URLs with 1 attacks.
+2024-07-14 14:08:09 [info]: Batch processed: 1 notifications sent.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+2024-07-14 14:08:48 [info]: Successfully connected to the database.
+2024-07-14 14:08:48 [info]: Checking for attacks since: 2024-07-14 13:53:48
+2024-07-14 14:08:48 [info]: Query executed. Found 1 victims to process in this batch.
+2024-07-14 14:08:48 [info]: Querying database for Blood Nexus URLs for victim ID: 1
+2024-07-14 14:08:48 [info]: No active Blood Nexus entries found for victim ID 1
+2024-07-14 14:08:48 [warning]: No valid Blood Nexus URLs found for victim ID: 1
+2024-07-14 14:08:48 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+2024-07-14 14:25:28 [info]: Successfully connected to the database.
+2024-07-14 14:25:28 [info]: Checking for attacks since: 2024-07-14 14:10:28
+2024-07-14 14:25:28 [info]: Query executed. Found 0 victims to process in this batch.
+2024-07-14 14:25:28 [info]: No notifications to send in this batch.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0

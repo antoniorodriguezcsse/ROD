@@ -1,0 +1,26 @@
+2024-08-11 13:35:39 [info]: Query executed. Found 0 pending resire requests to process.
+2024-08-11 13:35:39 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Resire Requests Processed: 0
+Processed requests older than 15 days
+Total Execution Time: 0.00 seconds
+Batch processed: 0 requests.2024-08-11 13:41:16 [info]: Query executed. Found 0 pending resire requests to process.
+2024-08-11 13:41:16 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Resire Requests Processed: 0
+Processed requests older than 1 days
+Total Execution Time: 0.00 seconds
+Batch processed: 0 requests.2024-08-11 13:41:26 [info]: Query executed. Found 1 pending resire requests to process.
+2024-08-11 13:41:26 [info]: Processed resire request ID: 4 for player UUID: fa631cce-ccbc-4575-b20d-134fad466d85
+2024-08-11 13:41:26 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Resire Requests Processed: 1
+Processed requests older than 0 days
+Total Execution Time: 0.00 seconds
+Batch processed: 1 requests.

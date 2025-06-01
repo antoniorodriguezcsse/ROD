@@ -1,0 +1,71 @@
+2024-12-28 16:44:24 [info]: Ban expiry update script completed.
+2024-12-28 16:44:24 [info]: 
++---------------------------------------------+
+|        Ban Expiry Update Report            |
++---------------------------------------------+
+| Total Active Bans:                    0 |
+| Total Expired Bans Processed:          1 |
+| Total Players Updated to Dead:           1 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-12-28 16:44:24]  Successfully connected to the database.
+
+[Total bans to be pr] cessed: 1
+
+[2024-12-28 16:44:24]  Player 40: Successfully updated to dead status and removed ban record #17.
+
+
+2024-12-29 04:30:03 [info]: Ban expiry update script completed.
+2024-12-29 04:30:03 [info]: 
++===========================================+
+|        Ban Expiry Update Report          |
++===========================================+
+| Total Active Bans:                    1 |
+| Total Expired Bans Processed:          0 |
+| Total Players Updated:               0 |
++===========================================+
+
+
+Completed Tasks:
+================
+
+[2024-12-29 04:30:03]  Successfully connected to the database.
+
+[Total players to be] processed: 0
+
+
+2024-12-29 04:32:11 [info]: Ban expiry update script completed.
+2024-12-29 04:32:11 [info]: 
++===========================================+
+|        Ban Expiry Update Report          |
++===========================================+
+| Total Active Bans:                    0 |
+| Total Expired Bans Processed:          1 |
+| Total Players Updated:               1 |
++===========================================+
+
+Processed Players:
+=================
+
+Player Name: Tatianastepanova
+UUID: 2671bb16-c94e-47de-a847-c1b178ab8136
+Ban Reason: Banned for attacks on system land
+Ban Start: 2024-12-28 16:55:18
+Ban End: 2024-11-28 16:55:18
+Banned By: Ninja Nova
+-------------------------------------------
+
+
+Completed Tasks:
+================
+
+[2024-12-29 04:32:11]  Successfully connected to the database.
+
+[Total players to be] processed: 1
+
+[2024-12-29 04:32:11]  Player Tatianastepanova (2671bb16-c94e-47de-a847-c1b178ab8136): Successfully updated to dead status and removed ban record #18.
+
+

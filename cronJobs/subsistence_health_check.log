@@ -1,0 +1,952 @@
+2024-08-17 11:39:06 [info]: Successfully connected to the database using PDO.
+2024-08-17 11:39:06 [info]: Successfully connected to the database using MySQLi.
+2024-08-17 11:39:06 [info]: Starting subsistence health check script.
+2024-08-17 11:39:07 [info]: Subsistence health check script completed.
+2024-08-17 11:39:07 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:39:06]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 11:39:06]  Added death log entry for player ID: 220
+
+[2024-08-17 11:39:07]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 11:39:07]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 11:39:07]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 11:39:07]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 11:39:07]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 11:39:07]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 11:39:07]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 11:39:07]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 11:39:07]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 11:39:07]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-17 11:51:12 [info]: Successfully connected to the database using PDO.
+2024-08-17 11:51:12 [info]: Successfully connected to the database using MySQLi.
+2024-08-17 11:51:12 [info]: Starting subsistence health check script.
+2024-08-17 11:51:12 [info]: Subsistence health check script completed.
+2024-08-17 11:51:12 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:51:12]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 11:51:12]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 11:51:12]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 11:51:12]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 11:51:12]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 11:51:12]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 11:51:12]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 11:51:12]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 11:51:12]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 11:51:12]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-17 11:52:14 [info]: Successfully connected to the database using PDO.
+2024-08-17 11:52:14 [info]: Successfully connected to the database using MySQLi.
+2024-08-17 11:52:14 [info]: Starting subsistence health check script.
+2024-08-17 11:53:04 [error]: Error adding death log entry for player ID 220: Internal Server Error 
+2024-08-17 11:53:05 [info]: Subsistence health check script completed.
+2024-08-17 11:53:05 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:52:14]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 11:53:05]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 11:53:05]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 11:53:05]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 11:53:05]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 11:53:05]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 11:53:05]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 11:53:05]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 11:53:05]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 11:53:05]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-17 11:57:10 [info]: Successfully connected to the database using PDO.
+2024-08-17 11:57:10 [info]: Successfully connected to the database using MySQLi.
+2024-08-17 11:57:10 [info]: Starting subsistence health check script.
+2024-08-17 11:58:01 [error]: Error adding death log entry for player ID 220: Internal Server Error 
+2024-08-17 11:58:02 [info]: Subsistence health check script completed.
+2024-08-17 11:58:02 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:57:10]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 11:58:02]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 11:58:02]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 11:58:02]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 11:58:02]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 11:58:02]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 11:58:02]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 11:58:02]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 11:58:02]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 11:58:02]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-17 12:14:37 [info]: Successfully connected to the database using PDO.
+2024-08-17 12:14:37 [info]: Successfully connected to the database using MySQLi.
+2024-08-17 12:14:37 [info]: Starting subsistence health check script.
+2024-08-17 12:15:27 [error]: Error adding death log entry for player ID 220: Internal Server Error 
+2024-08-17 12:15:28 [info]: Subsistence health check script completed.
+2024-08-17 12:15:28 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 12:14:37]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 12:15:28]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 12:15:28]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 12:15:28]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 12:15:28]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 12:15:28]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 12:15:28]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 12:15:28]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 12:15:28]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 12:15:28]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 03:18:02 [info]: Successfully connected to the database.
+2024-08-18 03:18:02 [info]: Starting subsistence health check script.
+2024-08-18 03:18:02 [info]: Subsistence health check script completed.
+2024-08-18 03:18:02 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 03:18:02]  Identified 54 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 03:18:02]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 03:18:02]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 03:18:02]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 03:18:02]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 03:18:02]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 03:18:02]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 03:18:02]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 03:18:02]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 03:18:02]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 03:21:08 [info]: Successfully connected to the database.
+2024-08-18 03:21:08 [info]: Starting subsistence health check script.
+2024-08-18 03:21:08 [info]: Subsistence health check script completed.
+2024-08-18 03:21:08 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 03:21:08]  Identified 54 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 03:21:08]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 03:21:08]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 03:21:08]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 03:21:08]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 03:21:08]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 03:21:08]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 03:21:08]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 03:21:08]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 03:21:08]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 03:23:09 [info]: Successfully connected to the database.
+2024-08-18 03:23:09 [info]: Starting subsistence health check script.
+2024-08-18 03:23:09 [info]: Subsistence health check script completed.
+2024-08-18 03:23:09 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 03:23:09]  Identified 54 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 03:23:09]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 03:23:09]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 03:23:09]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 03:23:09]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 03:23:09]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 03:23:09]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 03:23:09]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 03:23:09]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 03:23:09]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 03:26:29 [info]: Successfully connected to the database.
+2024-08-18 03:26:29 [info]: Starting subsistence health check script.
+2024-08-18 03:26:29 [info]: Subsistence health check script completed.
+2024-08-18 03:26:29 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 03:26:29]  Identified 54 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 03:26:29]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 03:26:29]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 03:26:29]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 03:26:29]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 03:26:29]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 03:26:29]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 03:26:29]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 03:26:29]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 03:26:29]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 03:39:08 [info]: Successfully connected to the database.
+2024-08-18 03:39:08 [info]: Starting subsistence health check script.
+2024-08-18 03:39:58 [error]: Error adding death log entry for player ID 220: Database error: SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+2024-08-18 03:39:59 [info]: Subsistence health check script completed.
+2024-08-18 03:39:59 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 03:39:08]  Identified 55 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 03:39:59]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 03:39:59]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 03:39:59]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 03:39:59]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 03:39:59]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 03:39:59]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 03:39:59]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 03:39:59]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 03:39:59]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 03:55:19 [info]: Successfully connected to the database.
+2024-08-18 03:55:19 [info]: Starting subsistence health check script.
+2024-08-18 03:56:09 [error]: Error adding death log entry for player ID 220: Database error: SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+2024-08-18 03:56:10 [info]: Subsistence health check script completed.
+2024-08-18 03:56:10 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 03:55:19]  Identified 55 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 03:56:10]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 03:56:10]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 03:56:10]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 03:56:10]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 03:56:10]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 03:56:10]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 03:56:10]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 03:56:10]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 03:56:10]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 04:05:17 [info]: Successfully connected to the database.
+2024-08-18 04:05:17 [info]: Starting subsistence health check script.
+2024-08-18 04:06:08 [info]: Subsistence health check script completed.
+2024-08-18 04:06:08 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:05:17]  Identified 55 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 04:06:08]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 04:06:08]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 04:06:08]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 04:06:08]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 04:06:08]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 04:06:08]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 04:06:08]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 04:06:08]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 04:06:08]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 04:06:44 [info]: Successfully connected to the database.
+2024-08-18 04:06:44 [info]: Starting subsistence health check script.
+2024-08-18 04:07:35 [info]: Subsistence health check script completed.
+2024-08-18 04:07:35 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:06:44]  Identified 55 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 04:07:35]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 04:07:35]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 04:07:35]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 04:07:35]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 04:07:35]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 04:07:35]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 04:07:35]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 04:07:35]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 04:07:35]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 04:20:11 [info]: Starting subsistence health check script.
+2024-08-18 04:20:11 [info]: Subsistence health check script completed.
+2024-08-18 04:20:11 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:20:11]  Identified 54 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 04:20:11]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 04:20:11]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 04:20:11]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 04:20:11]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 04:20:11]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 04:20:11]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 04:20:11]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 04:20:11]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 04:20:11]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 04:20:42 [info]: Starting subsistence health check script.
+2024-08-18 04:20:43 [info]: Death log entry added for player ID: 220. Death ID: 3298
+2024-08-18 04:20:44 [info]: Subsistence health check script completed.
+2024-08-18 04:20:44 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:20:42]  Identified 55 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 04:20:43]  Added death log entry for player ID: 220. Death ID: 3298
+
+[2024-08-18 04:20:44]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 04:20:44]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 04:20:44]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 04:20:44]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 04:20:44]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 04:20:44]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 04:20:44]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 04:20:44]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 04:20:44]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 04:20:44]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-08-18 04:28:47 [info]: Starting subsistence health check script.
+2024-08-18 04:28:47 [info]: Death log entry added for player ID: 220. Death ID: 3299
+2024-08-18 04:28:48 [info]: Subsistence health check script completed.
+2024-08-18 04:28:48 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:28:47]  Identified 55 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 04:28:47]  Added death log entry for player ID: 220. Death ID: 3299
+
+[2024-08-18 04:28:48]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 04:28:48]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 04:28:48]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 04:28:48]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 04:28:48]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-11-01 10:33:06 [info]: Starting subsistence health check script.
+2024-11-01 10:33:06 [info]: Death log entry added for player ID: 40. Death ID: 3419
+2024-11-01 10:33:07 [info]: Subsistence health check script completed.
+2024-11-01 10:33:07 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-11-01 10:33:06]  Identified 64 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-11-01 10:33:06]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-11-01 10:33:06]  Identified 21 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-11-01 10:33:06]  Added death log entry for player ID: 40. Death ID: 3419
+
+[2024-11-01 10:33:07]  Batch 0: Processed 1 players, 1 died in age group 'Rising Adept' (ID: 2).
+
+[2024-11-01 10:33:07]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-11-01 10:33:07]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-11-01 10:33:07]  Identified 27 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-11-01 10:33:07]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-11-01 10:33:07]  Identified 4 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-11-01 10:33:07]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-11-01 10:33:07]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-11-01 10:33:07]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-11-01 10:33:07]  Identified 36 players in age group 'Novice' (ID: 25) to process.
+
+[2024-11-01 10:33:07]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-11-01 10:33:07]  Identified 4 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-11-01 10:33:07]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-11-01 10:33:07]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-11-01 10:33:07]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+
+2024-11-19 03:45:27 [info]: Starting subsistence health check script.
+2024-11-19 03:45:27 [info]: Death log entry added for player ID: 195. Death ID: 3511
+2024-11-19 03:45:28 [info]: Death log entry added for player ID: 561. Death ID: 3512
+2024-11-19 03:45:29 [info]: Death log entry added for player ID: 680. Death ID: 3513
+2024-11-19 03:45:31 [info]: Death log entry added for player ID: 699. Death ID: 3514
+2024-11-19 03:45:32 [info]: Death log entry added for player ID: 719. Death ID: 3515
+2024-11-19 03:45:34 [info]: Death log entry added for player ID: 222. Death ID: 3516
+2024-11-19 03:45:35 [info]: Subsistence health check script completed.
+2024-11-19 03:45:35 [info]: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           180    |
+| Total Players Who Died:            6    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-11-19 03:45:27]  Identified 90 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-11-19 03:45:27]  Added death log entry for player ID: 195. Death ID: 3511
+
+[2024-11-19 03:45:28]  Added death log entry for player ID: 561. Death ID: 3512
+
+[2024-11-19 03:45:29]  Added death log entry for player ID: 680. Death ID: 3513
+
+[2024-11-19 03:45:31]  Added death log entry for player ID: 699. Death ID: 3514
+
+[2024-11-19 03:45:32]  Added death log entry for player ID: 719. Death ID: 3515
+
+[2024-11-19 03:45:33]  Batch 0: Processed 84 players, 5 died in age group 'Neonate' (ID: 1).
+
+[2024-11-19 03:45:33]  Identified 21 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 21 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-11-19 03:45:33]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 1 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-11-19 03:45:33]  Identified 23 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 23 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-11-19 03:45:33]  Identified 4 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 4 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-11-19 03:45:33]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 1 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-11-19 03:45:33]  Identified 40 players in age group 'Novice' (ID: 25) to process.
+
+[2024-11-19 03:45:34]  Added death log entry for player ID: 222. Death ID: 3516
+
+[2024-11-19 03:45:35]  Batch 0: Processed 40 players, 1 died in age group 'Novice' (ID: 25).
+
+[2024-11-19 03:45:35]  Identified 5 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-11-19 03:45:35]  Batch 0: Processed 5 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-11-19 03:45:35]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-11-19 03:45:35]  Batch 0: Processed 1 players, 0 died in age group 'Ancient' (ID: 35).
+
+

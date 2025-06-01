@@ -1,0 +1,526 @@
+2024-04-07 08:50:52 [error]: Exception in batch 0: Error deleting sleeping log: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET 0' at line 3
+2024-04-07 08:50:52 [info]: Sleep end update script completed.
+2024-04-07 08:50:52 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Players Processed:            0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 08:50:52]  Successfully connected to the database.
+
+[2024-04-07 08:50:52]  Total Players to be processed: 1 in 1 batches.
+
+
+2024-04-07 08:51:43 [error]: Exception in batch 0: Error deleting sleeping log: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET 0' at line 3
+2024-04-07 08:51:43 [info]: Sleep end update script completed.
+2024-04-07 08:51:43 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Players Processed:            0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 08:51:43]  Successfully connected to the database.
+
+[2024-04-07 08:51:43]  Total Players to be processed: 1 in 1 batches.
+
+
+2024-04-07 08:54:40 [error]: Exception in batch 0: Error deleting sleeping log: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET 0' at line 3
+2024-04-07 08:54:40 [info]: Sleep end update script completed.
+2024-04-07 08:54:40 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                2 |
+| Total Players Processed:              1 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 08:54:40]  Successfully connected to the database.
+
+[2024-04-07 08:54:40]  Total Players to be processed: 1 in 1 batches.
+
+
+2024-04-07 08:55:01 [error]: Exception in batch 0: Error deleting sleeping log: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET 0' at line 3
+2024-04-07 08:55:01 [info]: Sleep end update script completed.
+2024-04-07 08:55:01 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                2 |
+| Total Players Processed:              1 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 08:55:01]  Successfully connected to the database.
+
+[2024-04-07 08:55:01]  Total Players to be processed: 1 in 1 batches.
+
+
+2024-04-07 09:04:08 [error]: Exception in batch 0: Error deleting sleeping log: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET 0' at line 3
+2024-04-07 09:04:08 [info]: Sleep end update script completed.
+2024-04-07 09:04:08 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                2 |
+| Total Players Processed:              1 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 09:04:08]  Successfully connected to the database.
+
+[2024-04-07 09:04:08]  Total Players to be processed: 1 in 1 batches.
+
+
+2024-04-07 09:05:33 [info]: Sleep end update script completed.
+2024-04-07 09:05:33 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 09:05:33]  Successfully connected to the database.
+
+[2024-04-07 09:05:33]  Total Players to be processed: 0 in 0 batches.
+
+
+2024-04-07 09:06:30 [error]: Exception in batch 0: Error deleting sleeping log: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET 0' at line 3
+2024-04-07 09:06:30 [info]: Sleep end update script completed.
+2024-04-07 09:06:30 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              1 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 09:06:30]  Successfully connected to the database.
+
+[2024-04-07 09:06:30]  Total Players to be processed: 1 in 1 batches.
+
+
+2024-04-07 09:13:17 [info]: Sleep end update script completed.
+2024-04-07 09:13:17 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              1 |
+| Total Players Removed from Sleep:      1 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-04-07 09:13:17]  Successfully connected to the database.
+
+[Total Players to be] processed: 1
+
+[2024-04-07 09:13:17]  Player 40: Successfully updated status and removed from sleep.
+
+
+2024-08-13 09:37:01 [info]: Sleep end update script completed.
+2024-08-13 09:37:01 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:37:01]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-13 09:47:00 [info]: Sleep end update script completed.
+2024-08-13 09:47:00 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:47:00]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-13 09:58:12 [info]: Sleep end update script completed.
+2024-08-13 09:58:12 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:58:12]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-13 10:01:06 [info]: Sleep end update script completed.
+2024-08-13 10:01:06 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:01:06]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-13 10:03:23 [info]: Sleep end update script completed.
+2024-08-13 10:03:23 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:03:23]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-16 02:49:16 [info]: Sleep end update script completed.
+2024-08-16 02:49:16 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 02:49:16]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-16 03:01:47 [info]: Sleep end update script completed.
+2024-08-16 03:01:47 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:01:47]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-16 03:09:34 [info]: Sleep end update script completed.
+2024-08-16 03:09:34 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:09:34]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-16 03:11:47 [info]: Sleep end update script completed.
+2024-08-16 03:11:47 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:11:47]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-16 03:17:49 [info]: Sleep end update script completed.
+2024-08-16 03:17:49 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:17:49]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-16 03:18:06 [info]: Sleep end update script completed.
+2024-08-16 03:18:06 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:18:06]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 08:08:20 [info]: Sleep end update script completed.
+2024-08-17 08:08:20 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:08:20]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 08:25:20 [info]: Sleep end update script completed.
+2024-08-17 08:25:20 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:25:20]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 08:28:13 [info]: Sleep end update script completed.
+2024-08-17 08:28:13 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:28:13]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 08:36:17 [info]: Sleep end update script completed.
+2024-08-17 08:36:17 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:36:17]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 08:45:22 [info]: Sleep end update script completed.
+2024-08-17 08:45:22 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:45:22]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 08:50:04 [info]: Sleep end update script completed.
+2024-08-17 08:50:04 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:50:04]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 11:12:49 [info]: Sleep end update script completed.
+2024-08-17 11:12:49 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:12:49]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-17 11:19:05 [info]: Sleep end update script completed.
+2024-08-17 11:19:05 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:19:05]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-08-18 04:28:50 [info]: Sleep end update script completed.
+2024-08-18 04:28:50 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                0 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:28:50]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+
+2024-11-19 03:45:37 [info]: Sleep end update script completed.
+2024-11-19 03:45:37 [info]: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                0 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-11-19 03:45:37]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+

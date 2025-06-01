@@ -1,0 +1,22 @@
+{
+    "name": "portexploits/mysticalconvergence",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "guzzlehttp/psr7": "^2.6",
+        "nikic/fast-route": "^1.3"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "portexploits resident",
+            "email": "portexploits@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fallen\\SecondLife\\": "src/"
+            
+        }
+    }
+}

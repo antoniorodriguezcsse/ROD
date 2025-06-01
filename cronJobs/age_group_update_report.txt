@@ -1,0 +1,546 @@
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 282 players
+Age Group 2: 16 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 282 players
+Age Group 2: 16 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 344 players
+Age Group 2: 22 players
+Age Group 10: 1 players
+Age Group 15: 73 players
+Age Group 16: 5 players
+Age Group 24: 1 players
+Age Group 25: 141 players
+Age Group 26: 5 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 344 players
+Age Group 2: 22 players
+Age Group 10: 1 players
+Age Group 15: 73 players
+Age Group 16: 5 players
+Age Group 24: 1 players
+Age Group 25: 141 players
+Age Group 26: 5 players
+Age Group 35: 1 players
+
+Total players updated: 0

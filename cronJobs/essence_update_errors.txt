@@ -1,0 +1,118 @@
+----------------------
+REPORT
+----------------------
+2023-12-03 09:30:38: Successfully connected to the database.
+2023-12-03 09:30:38: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2023-12-03 09:32:07: Successfully connected to the database.
+2023-12-03 09:32:07: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-13 09:37:01: Successfully connected to the database.
+2024-08-13 09:37:01: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-13 09:47:00: Successfully connected to the database.
+2024-08-13 09:47:00: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-13 09:58:11: Successfully connected to the database.
+2024-08-13 09:58:11: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-13 10:01:06: Successfully connected to the database.
+2024-08-13 10:01:06: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-13 10:03:23: Successfully connected to the database.
+2024-08-13 10:03:23: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-16 02:49:16: Successfully connected to the database.
+2024-08-16 02:49:16: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-16 03:01:47: Successfully connected to the database.
+2024-08-16 03:01:47: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-16 03:09:34: Successfully connected to the database.
+2024-08-16 03:09:34: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-16 03:11:47: Successfully connected to the database.
+2024-08-16 03:11:47: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-16 03:17:49: Successfully connected to the database.
+2024-08-16 03:17:49: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-16 03:18:06: Successfully connected to the database.
+2024-08-16 03:18:06: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-17 08:08:20: Successfully connected to the database.
+2024-08-17 08:08:20: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-17 08:25:20: Successfully connected to the database.
+2024-08-17 08:25:20: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-17 08:28:12: Successfully connected to the database.
+2024-08-17 08:28:12: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-17 08:36:17: Successfully connected to the database.
+2024-08-17 08:36:17: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-17 08:45:22: Successfully connected to the database.
+2024-08-17 08:45:22: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-17 08:50:03: Successfully connected to the database.
+2024-08-17 08:50:03: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-17 11:12:49: Successfully connected to the database.
+2024-08-17 11:12:49: Total Players to be processed: 1 in 1 batches.
+2024-08-17 11:12:49: Batch 0: Successfully updated essence for 1 players.
+----------------------
+REPORT
+----------------------
+2024-08-17 11:19:04: Successfully connected to the database.
+2024-08-17 11:19:04: Total Players to be processed: 0 in 0 batches.
+----------------------
+REPORT
+----------------------
+2024-08-18 04:28:49: Successfully connected to the database.
+2024-08-18 04:28:49: Total Players to be processed: 1 in 1 batches.
+2024-08-18 04:28:49: Batch 0: Successfully updated essence for 1 players.
+----------------------
+REPORT
+----------------------
+2024-11-19 03:45:37: Successfully connected to the database.
+2024-11-19 03:45:37: Total Players to be processed: 174 in 1 batches.
+2024-11-19 03:45:37: Batch 0: Successfully updated essence for 174 players.

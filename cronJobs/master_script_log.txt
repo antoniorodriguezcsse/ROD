@@ -1,0 +1,3993 @@
+2023-12-03 09:30:38: Starting master script execution...
+2023-12-03 09:30:38: ----------------------
+REPORT
+----------------------
+Total Players Processed: 0
+Total Players Who Died: 0
+2023-12-03 09:30:38: Successfully connected to the database.
+2023-12-03 09:30:38: Identified 0 players in age group 1 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 2 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 3 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 4 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 5 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 6 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 7 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 8 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 9 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 10 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 12 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 13 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 14 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 15 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 16 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 17 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 18 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 19 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 20 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 21 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 22 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 23 to process.
+2023-12-03 09:30:38: Identified 0 players in age group 24 to process.
+
+2023-12-03 09:30:38: 
+Notice: Undefined variable: error_log_file in /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php on line 13
+
+Notice: Undefined variable: error_log_file in /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php on line 119
+
+Warning: file_put_contents(): Filename cannot be empty in /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php on line 119
+----------------------
+REPORT
+----------------------
+2023-12-03 09:30:38: Successfully connected to the database.
+2023-12-03 09:30:38: Total Players to be processed: 0 in 0 batches.
+
+2023-12-03 09:30:38: ----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 181 players
+Age Group 10: 1 players
+Age Group 15: 14 players
+Age Group 24: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 181 players
+Age Group 10: 1 players
+Age Group 15: 14 players
+Age Group 24: 1 players
+
+Total players updated: 0
+
+2023-12-03 09:30:38: ----------------------
+REPORT
+----------------------
+2023-12-03 09:30:38: Successfully connected to the database.
+2023-12-03 09:30:38: Total Players to be processed: 0 in 0 batches.
+
+2023-12-03 09:30:38: Master script execution completed.
+2023-12-03 09:32:07: Starting master script execution...
+2023-12-03 09:32:07: ----------------------
+REPORT
+----------------------
+Total Players Processed: 0
+Total Players Who Died: 0
+2023-12-03 09:32:07: Successfully connected to the database.
+2023-12-03 09:32:07: Identified 0 players in age group 1 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 2 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 3 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 4 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 5 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 6 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 7 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 8 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 9 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 10 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 12 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 13 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 14 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 15 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 16 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 17 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 18 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 19 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 20 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 21 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 22 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 23 to process.
+2023-12-03 09:32:07: Identified 0 players in age group 24 to process.
+
+2023-12-03 09:32:07: ----------------------
+REPORT
+----------------------
+2023-12-03 09:32:07: Successfully connected to the database.
+2023-12-03 09:32:07: Total Players to be processed: 0 in 0 batches.
+
+2023-12-03 09:32:07: ----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 181 players
+Age Group 10: 1 players
+Age Group 15: 14 players
+Age Group 24: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 181 players
+Age Group 10: 1 players
+Age Group 15: 14 players
+Age Group 24: 1 players
+
+Total players updated: 0
+
+2023-12-03 09:32:07: ----------------------
+REPORT
+----------------------
+2023-12-03 09:32:07: Successfully connected to the database.
+2023-12-03 09:32:07: Total Players to be processed: 0 in 0 batches.
+
+2023-12-03 09:32:07: Master script execution completed.
+2024-08-13 09:37:01: Starting master script execution...
+2024-08-13 09:37:01: Output from subsistence_health_check.php:
+2024-08-13 09:37:01: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:37:01]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-13 09:37:01]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-13 09:37:01]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-13 09:37:01]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-13 09:37:01]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-13 09:37:01]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-13 09:37:01]  Identified 15 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-13 09:37:01]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-13 09:37:01]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-13 09:37:01]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-13 09:37:01: Output from player_age_update.php:
+2024-08-13 09:37:01: 
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:37:01]  Successfully connected to the database.
+
+[2024-08-13 09:37:01]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-13 09:37:01]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:37:01]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:37:01]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:37:01]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-13 09:37:01: Output from update_player_age_groups.php:
+2024-08-13 09:37:01: ----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-13 09:37:01: Output from essence_update.php:
+2024-08-13 09:37:01: ----------------------
+REPORT
+----------------------
+2024-08-13 09:37:01: Successfully connected to the database.
+2024-08-13 09:37:01: Total Players to be processed: 0 in 0 batches.
+2024-08-13 09:37:01: Output from process_sleep_end_players.php:
+2024-08-13 09:37:01: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:37:01]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-13 09:37:03: Output from check_overseers_online_status.php:
+2024-08-13 09:37:03: 2024-08-13 09:37:02 [info]: Starting overseer status check script.
+2024-08-13 09:37:02 [info]: Query executed. Found 3 overseers to process.
+2024-08-13 09:37:02 [info]: Overseer 44 is online. Counter reset.
+2024-08-13 09:37:02 [info]: Overseer 45 is online. Counter reset.
+2024-08-13 09:37:02 [info]: Overseer 50 is offline. Counter increased to 1.
+2024-08-13 09:37:02 [info]: Batch processed in 0.28 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 3
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.28 seconds
+Batch processed: 3 overseers checked.
+2024-08-13 09:37:03: Output from overseer_death_check.php:
+2024-08-13 09:37:03: 2024-08-13 09:37:03 [info]: Alive status IDs: 1, 7, 8
+2024-08-13 09:37:03 [info]: Query executed. Found 2 online overseers to process.
+2024-08-13 09:37:03 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-13 09:37:03: Master script execution completed.
+2024-08-13 09:46:59: Starting master script execution...
+2024-08-13 09:46:59: Executing script: subsistence_health_check.php
+2024-08-13 09:46:59: Output from subsistence_health_check.php:
+2024-08-13 09:46:59: 
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:46:59]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-13 09:46:59]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-13 09:46:59]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-13 09:46:59]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-13 09:46:59]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-13 09:46:59]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-13 09:46:59]  Identified 15 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-13 09:46:59]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-13 09:46:59]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-13 09:46:59]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-13 09:46:59: Executing script: player_age_update.php
+2024-08-13 09:46:59: Output from player_age_update.php:
+2024-08-13 09:46:59: 
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:46:59]  Successfully connected to the database.
+
+[2024-08-13 09:46:59]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-13 09:46:59]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:46:59]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:46:59]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:46:59]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-13 09:47:00: Executing script: update_player_age_groups.php
+2024-08-13 09:47:00: Output from update_player_age_groups.php:
+2024-08-13 09:47:00: ----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-13 09:47:00: Executing script: essence_update.php
+2024-08-13 09:47:00: Output from essence_update.php:
+2024-08-13 09:47:00: ----------------------
+REPORT
+----------------------
+2024-08-13 09:47:00: Successfully connected to the database.
+2024-08-13 09:47:00: Total Players to be processed: 0 in 0 batches.
+2024-08-13 09:47:00: Executing script: process_sleep_end_players.php
+2024-08-13 09:47:00: Output from process_sleep_end_players.php:
+2024-08-13 09:47:00: 
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:47:00]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-13 09:47:00: Executing script: check_overseers_online_status.php
+2024-08-13 09:47:02: Output from check_overseers_online_status.php:
+2024-08-13 09:47:02: 2024-08-13 09:47:01 [info]: Starting overseer status check script.
+2024-08-13 09:47:01 [info]: Query executed. Found 3 overseers to process.
+2024-08-13 09:47:01 [info]: Overseer 44 is online. Counter reset.
+2024-08-13 09:47:01 [info]: Overseer 45 is online. Counter reset.
+2024-08-13 09:47:01 [info]: Overseer 50 is offline. Counter increased to 2.
+2024-08-13 09:47:01 [info]: Batch processed in 0.16 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 3
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.16 seconds
+Batch processed: 3 overseers checked.
+2024-08-13 09:47:02: Executing script: overseer_death_check.php
+2024-08-13 09:47:02: Output from overseer_death_check.php:
+2024-08-13 09:47:02: 2024-08-13 09:47:02 [info]: Alive status IDs: 1, 7, 8
+2024-08-13 09:47:02 [info]: Query executed. Found 2 online overseers to process.
+2024-08-13 09:47:02 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-13 09:47:02: Master script execution completed.
+2024-08-13 09:58:11: Starting master script execution...
+2024-08-13 09:58:11: Executing script 0: subsistence_health_check.php
+2024-08-13 09:58:11: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-13 09:58:11: Output from subsistence_health_check.php:
+2024-08-13 09:58:11: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:58:11]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-13 09:58:11]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-13 09:58:11]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-13 09:58:11]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-13 09:58:11]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-13 09:58:11]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-13 09:58:11]  Identified 15 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-13 09:58:11]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-13 09:58:11]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-13 09:58:11]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-13 09:58:11: Discord post result for subsistence_health_check.php: "{\"content\": [\"Must be 2000 or fewer in length.\"]}"
+2024-08-13 09:58:11: Executing script 1: player_age_update.php
+2024-08-13 09:58:11: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-13 09:58:11: Output from player_age_update.php:
+2024-08-13 09:58:11: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:58:11]  Successfully connected to the database.
+
+[2024-08-13 09:58:11]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-13 09:58:11]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:58:11]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:58:11]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 09:58:11]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-13 09:58:11: Discord post result for player_age_update.php: ""
+2024-08-13 09:58:11: Executing script 2: update_player_age_groups.php
+2024-08-13 09:58:11: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-13 09:58:11: Output from update_player_age_groups.php:
+2024-08-13 09:58:11: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-13 09:58:11: Discord post result for update_player_age_groups.php: ""
+2024-08-13 09:58:11: Executing script 3: essence_update.php
+2024-08-13 09:58:11: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-13 09:58:11: Output from essence_update.php:
+2024-08-13 09:58:11: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-13 09:58:11: Successfully connected to the database.
+2024-08-13 09:58:11: Total Players to be processed: 0 in 0 batches.
+2024-08-13 09:58:12: Discord post result for essence_update.php: ""
+2024-08-13 09:58:12: Executing script 4: process_sleep_end_players.php
+2024-08-13 09:58:12: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-13 09:58:12: Output from process_sleep_end_players.php:
+2024-08-13 09:58:12: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 09:58:12]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-13 09:58:12: Discord post result for process_sleep_end_players.php: ""
+2024-08-13 09:58:12: Executing script 5: check_overseers_online_status.php
+2024-08-13 09:58:12: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-13 09:58:13: Output from check_overseers_online_status.php:
+2024-08-13 09:58:13: Return value: 0
+Output:
+2024-08-13 09:58:12 [info]: Starting overseer status check script.
+2024-08-13 09:58:12 [info]: Query executed. Found 3 overseers to process.
+2024-08-13 09:58:12 [info]: Overseer 44 is online. Counter reset.
+2024-08-13 09:58:12 [info]: Overseer 45 is online. Counter reset.
+2024-08-13 09:58:12 [info]: Overseer 50 marked as offline. Offline for 3 days.
+2024-08-13 09:58:12 [info]: Batch processed in 0.23 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 3
+Total Overseers Marked Offline: 1
+Total Execution Time: 1.23 seconds
+Batch processed: 3 overseers checked.
+2024-08-13 09:58:13: Discord post result for check_overseers_online_status.php: ""
+2024-08-13 09:58:13: Executing script 6: overseer_death_check.php
+2024-08-13 09:58:13: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-13 09:58:13: Output from overseer_death_check.php:
+2024-08-13 09:58:13: Return value: 0
+Output:
+2024-08-13 09:58:13 [info]: Alive status IDs: 1, 7, 8
+2024-08-13 09:58:13 [info]: Query executed. Found 2 online overseers to process.
+2024-08-13 09:58:13 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-13 09:58:14: Discord post result for overseer_death_check.php: ""
+2024-08-13 09:58:14: Master script execution completed.
+2024-08-13 10:01:05: Starting master script execution...
+2024-08-13 10:01:05: Executing script 0: subsistence_health_check.php
+2024-08-13 10:01:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-13 10:01:05: Output from subsistence_health_check.php:
+2024-08-13 10:01:05: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:01:05]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-13 10:01:05]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-13 10:01:05]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-13 10:01:05]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-13 10:01:05]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-13 10:01:05]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-13 10:01:05]  Identified 15 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-13 10:01:05]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-13 10:01:05]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-13 10:01:05]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-13 10:01:05: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-13 10:01:05: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-13 10:01:05: Executing script 1: player_age_update.php
+2024-08-13 10:01:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-13 10:01:05: Output from player_age_update.php:
+2024-08-13 10:01:05: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:01:05]  Successfully connected to the database.
+
+[2024-08-13 10:01:05]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-13 10:01:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 10:01:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 10:01:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 10:01:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-13 10:01:05: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-13 10:01:05: Executing script 2: update_player_age_groups.php
+2024-08-13 10:01:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-13 10:01:06: Output from update_player_age_groups.php:
+2024-08-13 10:01:06: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-13 10:01:06: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-13 10:01:06: Executing script 3: essence_update.php
+2024-08-13 10:01:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-13 10:01:06: Output from essence_update.php:
+2024-08-13 10:01:06: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-13 10:01:06: Successfully connected to the database.
+2024-08-13 10:01:06: Total Players to be processed: 0 in 0 batches.
+2024-08-13 10:01:06: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-13 10:01:06: Executing script 4: process_sleep_end_players.php
+2024-08-13 10:01:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-13 10:01:06: Output from process_sleep_end_players.php:
+2024-08-13 10:01:06: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:01:06]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-13 10:01:06: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-13 10:01:06: Executing script 5: check_overseers_online_status.php
+2024-08-13 10:01:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-13 10:01:08: Output from check_overseers_online_status.php:
+2024-08-13 10:01:08: Return value: 0
+Output:
+2024-08-13 10:01:06 [info]: Starting overseer status check script.
+2024-08-13 10:01:06 [info]: Query executed. Found 2 overseers to process.
+2024-08-13 10:01:07 [info]: Overseer 44 is online. Counter reset.
+2024-08-13 10:01:07 [info]: Overseer 45 is online. Counter reset.
+2024-08-13 10:01:07 [info]: Batch processed in 0.21 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 2
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.21 seconds
+Batch processed: 2 overseers checked.
+2024-08-13 10:01:08: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-13 10:01:08: Executing script 6: overseer_death_check.php
+2024-08-13 10:01:08: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-13 10:01:08: Output from overseer_death_check.php:
+2024-08-13 10:01:08: Return value: 0
+Output:
+2024-08-13 10:01:08 [info]: Alive status IDs: 1, 7, 8
+2024-08-13 10:01:08 [info]: Query executed. Found 2 online overseers to process.
+2024-08-13 10:01:08 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-13 10:01:08: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-13 10:01:08: Master script execution completed.
+2024-08-13 10:03:21: Starting master script execution...
+2024-08-13 10:03:21: Executing script 0: subsistence_health_check.php
+2024-08-13 10:03:21: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-13 10:03:21: Output from subsistence_health_check.php:
+2024-08-13 10:03:21: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:03:21]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-13 10:03:21]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-13 10:03:21]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-13 10:03:21]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-13 10:03:21]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-13 10:03:21]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-13 10:03:21]  Identified 15 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-13 10:03:21]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-13 10:03:21]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-13 10:03:21]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-13 10:03:21: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-13 10:03:23: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-13 10:03:23: Executing script 1: player_age_update.php
+2024-08-13 10:03:23: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-13 10:03:23: Output from player_age_update.php:
+2024-08-13 10:03:23: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:03:23]  Successfully connected to the database.
+
+[2024-08-13 10:03:23]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-13 10:03:23]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 10:03:23]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 10:03:23]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-13 10:03:23]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-13 10:03:23: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-13 10:03:23: Executing script 2: update_player_age_groups.php
+2024-08-13 10:03:23: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-13 10:03:23: Output from update_player_age_groups.php:
+2024-08-13 10:03:23: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 281 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 98 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-13 10:03:23: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-13 10:03:23: Executing script 3: essence_update.php
+2024-08-13 10:03:23: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-13 10:03:23: Output from essence_update.php:
+2024-08-13 10:03:23: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-13 10:03:23: Successfully connected to the database.
+2024-08-13 10:03:23: Total Players to be processed: 0 in 0 batches.
+2024-08-13 10:03:23: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-13 10:03:23: Executing script 4: process_sleep_end_players.php
+2024-08-13 10:03:23: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-13 10:03:23: Output from process_sleep_end_players.php:
+2024-08-13 10:03:23: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-13 10:03:23]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-13 10:03:24: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-13 10:03:24: Executing script 5: check_overseers_online_status.php
+2024-08-13 10:03:24: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-13 10:03:25: Output from check_overseers_online_status.php:
+2024-08-13 10:03:25: Return value: 0
+Output:
+2024-08-13 10:03:24 [info]: Starting overseer status check script.
+2024-08-13 10:03:24 [info]: Query executed. Found 2 overseers to process.
+2024-08-13 10:03:24 [info]: Overseer 44 is online. Counter reset.
+2024-08-13 10:03:24 [info]: Overseer 45 is online. Counter reset.
+2024-08-13 10:03:24 [info]: Batch processed in 0.08 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 2
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.08 seconds
+Batch processed: 2 overseers checked.
+2024-08-13 10:03:25: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-13 10:03:25: Executing script 6: overseer_death_check.php
+2024-08-13 10:03:25: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-13 10:03:25: Output from overseer_death_check.php:
+2024-08-13 10:03:25: Return value: 0
+Output:
+2024-08-13 10:03:25 [info]: Alive status IDs: 1, 7, 8
+2024-08-13 10:03:25 [info]: Query executed. Found 2 online overseers to process.
+2024-08-13 10:03:25 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-13 10:03:26: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-13 10:03:26: Master script execution completed.
+2024-08-16 02:49:15: Starting master script execution...
+2024-08-16 02:49:15: Executing script 0: subsistence_health_check.php
+2024-08-16 02:49:15: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-16 02:49:15: Output from subsistence_health_check.php:
+2024-08-16 02:49:15: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 02:49:15]  Identified 59 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-16 02:49:15]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-16 02:49:15]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-16 02:49:15]  Identified 13 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-16 02:49:15]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-16 02:49:15]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-16 02:49:15]  Identified 18 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-16 02:49:15]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-16 02:49:15]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-16 02:49:15]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-16 02:49:15: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-16 02:49:16: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-16 02:49:16: Executing script 1: player_age_update.php
+2024-08-16 02:49:16: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-16 02:49:16: Output from player_age_update.php:
+2024-08-16 02:49:16: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 02:49:16]  Successfully connected to the database.
+
+[2024-08-16 02:49:16]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-16 02:49:16]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 02:49:16]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 02:49:16]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 02:49:16]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-16 02:49:16: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-16 02:49:16: Executing script 2: update_player_age_groups.php
+2024-08-16 02:49:16: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-16 02:49:16: Output from update_player_age_groups.php:
+2024-08-16 02:49:16: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-16 02:49:16: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-16 02:49:16: Executing script 3: essence_update.php
+2024-08-16 02:49:16: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-16 02:49:16: Output from essence_update.php:
+2024-08-16 02:49:16: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-16 02:49:16: Successfully connected to the database.
+2024-08-16 02:49:16: Total Players to be processed: 0 in 0 batches.
+2024-08-16 02:49:16: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-16 02:49:16: Executing script 4: process_sleep_end_players.php
+2024-08-16 02:49:16: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-16 02:49:16: Output from process_sleep_end_players.php:
+2024-08-16 02:49:16: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 02:49:16]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-16 02:49:16: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-16 02:49:16: Executing script 5: check_overseers_online_status.php
+2024-08-16 02:49:16: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-16 02:49:28: Output from check_overseers_online_status.php:
+2024-08-16 02:49:28: Return value: 0
+Output:
+2024-08-16 02:49:16 [info]: Starting overseer status check script.
+2024-08-16 02:49:16 [info]: Query executed. Found 9 overseers to process.
+2024-08-16 02:49:16 [info]: Overseer 1 is online. Counter reset.
+2024-08-16 02:49:17 [info]: Overseer 2 is online. Counter reset.
+2024-08-16 02:49:17 [info]: Overseer 3 is online. Counter reset.
+2024-08-16 02:49:17 [info]: Overseer 4 is online. Counter reset.
+2024-08-16 02:49:17 [info]: Overseer 5 is online. Counter reset.
+2024-08-16 02:49:27 [info]: Overseer 6 is offline. Counter increased to 2.
+2024-08-16 02:49:27 [info]: Overseer 7 marked as offline. Offline for 3 days.
+2024-08-16 02:49:27 [info]: Overseer 8 is online. Counter reset.
+2024-08-16 02:49:27 [info]: Overseer 11 is online. Counter reset.
+2024-08-16 02:49:27 [info]: Batch processed in 10.42 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 9
+Total Overseers Marked Offline: 1
+Total Execution Time: 11.42 seconds
+Batch processed: 9 overseers checked.
+2024-08-16 02:49:28: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-16 02:49:28: Executing script 6: overseer_death_check.php
+2024-08-16 02:49:28: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-16 02:49:30: Output from overseer_death_check.php:
+2024-08-16 02:49:30: Return value: 0
+Output:
+2024-08-16 02:49:28 [info]: Alive status IDs: 1, 7, 8
+2024-08-16 02:49:28 [info]: Query executed. Found 8 online overseers to process.
+2024-08-16 02:49:29 [info]: Notification sent to URL: http://simhost-0fd7a07326b01e2a6.agni.secondlife.io:12046/cap/10ba87e4-7777-a52b-b4bb-6976ada273f0
+2024-08-16 02:49:30 [info]: Notification sent to URL: http://simhost-0fd7a07326b01e2a6.agni.secondlife.io:12046/cap/a8f7e7dd-8e98-9c7a-13f8-786a2102e9b2
+2024-08-16 02:49:30 [info]: Batch processed in 2.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 2
+Total Execution Time: 2.00 seconds
+Batch processed: 2 notifications sent.
+2024-08-16 02:49:30: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-16 02:49:30: Master script execution completed.
+2024-08-16 03:01:46: Starting master script execution...
+2024-08-16 03:01:46: Executing script 0: subsistence_health_check.php
+2024-08-16 03:01:46: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-16 03:01:46: Output from subsistence_health_check.php:
+2024-08-16 03:01:46: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:01:46]  Identified 59 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-16 03:01:46]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-16 03:01:46]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-16 03:01:46]  Identified 13 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-16 03:01:46]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-16 03:01:46]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-16 03:01:46]  Identified 18 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-16 03:01:46]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-16 03:01:46]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-16 03:01:46]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-16 03:01:46: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-16 03:01:46: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-16 03:01:46: Executing script 1: player_age_update.php
+2024-08-16 03:01:46: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-16 03:01:46: Output from player_age_update.php:
+2024-08-16 03:01:46: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:01:46]  Successfully connected to the database.
+
+[2024-08-16 03:01:46]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-16 03:01:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:01:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:01:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:01:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-16 03:01:46: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-16 03:01:46: Executing script 2: update_player_age_groups.php
+2024-08-16 03:01:46: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-16 03:01:46: Output from update_player_age_groups.php:
+2024-08-16 03:01:46: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-16 03:01:47: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-16 03:01:47: Executing script 3: essence_update.php
+2024-08-16 03:01:47: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-16 03:01:47: Output from essence_update.php:
+2024-08-16 03:01:47: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-16 03:01:47: Successfully connected to the database.
+2024-08-16 03:01:47: Total Players to be processed: 0 in 0 batches.
+2024-08-16 03:01:47: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-16 03:01:47: Executing script 4: process_sleep_end_players.php
+2024-08-16 03:01:47: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-16 03:01:47: Output from process_sleep_end_players.php:
+2024-08-16 03:01:47: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:01:47]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-16 03:01:47: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-16 03:01:47: Executing script 5: check_overseers_online_status.php
+2024-08-16 03:01:47: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-16 03:01:58: Output from check_overseers_online_status.php:
+2024-08-16 03:01:58: Return value: 0
+Output:
+2024-08-16 03:01:47 [info]: Starting overseer status check script.
+2024-08-16 03:01:47 [info]: Query executed. Found 8 overseers to process.
+2024-08-16 03:01:47 [info]: Overseer 1 is online. Counter reset.
+2024-08-16 03:01:47 [info]: Overseer 2 is online. Counter reset.
+2024-08-16 03:01:47 [info]: Overseer 3 is online. Counter reset.
+2024-08-16 03:01:47 [info]: Overseer 4 is online. Counter reset.
+2024-08-16 03:01:47 [info]: Overseer 5 is online. Counter reset.
+2024-08-16 03:01:57 [info]: Overseer 6 marked as offline. Offline for 3 days.
+2024-08-16 03:01:57 [info]: Overseer 8 is online. Counter reset.
+2024-08-16 03:01:57 [info]: Overseer 11 is online. Counter reset.
+2024-08-16 03:01:57 [info]: Batch processed in 10.50 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 8
+Total Overseers Marked Offline: 1
+Total Execution Time: 11.50 seconds
+Batch processed: 8 overseers checked.
+2024-08-16 03:01:59: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-16 03:01:59: Executing script 6: overseer_death_check.php
+2024-08-16 03:01:59: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-16 03:02:00: Output from overseer_death_check.php:
+2024-08-16 03:02:00: Return value: 0
+Output:
+2024-08-16 03:01:59 [info]: Alive status IDs: 1, 7, 8
+2024-08-16 03:01:59 [info]: Query executed. Found 7 online overseers to process.
+2024-08-16 03:02:00 [info]: Notification sent to URL: http://simhost-0fd7a07326b01e2a6.agni.secondlife.io:12046/cap/a8f7e7dd-8e98-9c7a-13f8-786a2102e9b2
+2024-08-16 03:02:00 [info]: Batch processed in 1.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+Total Execution Time: 1.00 seconds
+Batch processed: 1 notifications sent.
+2024-08-16 03:02:00: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-16 03:02:00: Master script execution completed.
+2024-08-16 03:09:33: Starting master script execution...
+2024-08-16 03:09:33: Executing script 0: subsistence_health_check.php
+2024-08-16 03:09:33: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-16 03:09:33: Output from subsistence_health_check.php:
+2024-08-16 03:09:33: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:09:33]  Identified 59 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-16 03:09:33]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-16 03:09:33]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-16 03:09:33]  Identified 13 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-16 03:09:33]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-16 03:09:33]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-16 03:09:33]  Identified 18 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-16 03:09:33]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-16 03:09:33]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-16 03:09:33]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-16 03:09:33: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-16 03:09:33: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-16 03:09:33: Executing script 1: player_age_update.php
+2024-08-16 03:09:33: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-16 03:09:33: Output from player_age_update.php:
+2024-08-16 03:09:33: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:09:33]  Successfully connected to the database.
+
+[2024-08-16 03:09:33]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-16 03:09:33]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:09:33]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:09:33]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:09:33]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-16 03:09:33: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-16 03:09:33: Executing script 2: update_player_age_groups.php
+2024-08-16 03:09:33: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-16 03:09:33: Output from update_player_age_groups.php:
+2024-08-16 03:09:33: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-16 03:09:34: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-16 03:09:34: Executing script 3: essence_update.php
+2024-08-16 03:09:34: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-16 03:09:34: Output from essence_update.php:
+2024-08-16 03:09:34: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-16 03:09:34: Successfully connected to the database.
+2024-08-16 03:09:34: Total Players to be processed: 0 in 0 batches.
+2024-08-16 03:09:34: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-16 03:09:34: Executing script 4: process_sleep_end_players.php
+2024-08-16 03:09:34: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-16 03:09:34: Output from process_sleep_end_players.php:
+2024-08-16 03:09:34: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:09:34]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-16 03:09:34: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-16 03:09:34: Executing script 5: check_overseers_online_status.php
+2024-08-16 03:09:34: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-16 03:09:35: Output from check_overseers_online_status.php:
+2024-08-16 03:09:35: Return value: 0
+Output:
+2024-08-16 03:09:34 [info]: Starting overseer status check script.
+2024-08-16 03:09:34 [info]: Query executed. Found 7 overseers to process.
+2024-08-16 03:09:34 [info]: Overseer 1 is online. Counter reset.
+2024-08-16 03:09:34 [info]: Overseer 2 is online. Counter reset.
+2024-08-16 03:09:34 [info]: Overseer 3 is online. Counter reset.
+2024-08-16 03:09:34 [info]: Overseer 4 is online. Counter reset.
+2024-08-16 03:09:34 [info]: Overseer 5 is online. Counter reset.
+2024-08-16 03:09:34 [info]: Overseer 8 is online. Counter reset.
+2024-08-16 03:09:34 [info]: Overseer 11 is online. Counter reset.
+2024-08-16 03:09:34 [info]: Batch processed in 0.53 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 7
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.53 seconds
+Batch processed: 7 overseers checked.
+2024-08-16 03:09:36: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-16 03:09:36: Executing script 6: overseer_death_check.php
+2024-08-16 03:09:36: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-16 03:09:37: Output from overseer_death_check.php:
+2024-08-16 03:09:37: Return value: 0
+Output:
+2024-08-16 03:09:36 [info]: Alive status IDs: 1, 7, 8
+2024-08-16 03:09:36 [info]: Query executed. Found 7 online overseers to process.
+2024-08-16 03:09:37 [info]: Notification sent to URL: http://simhost-0fd7a07326b01e2a6.agni.secondlife.io:12046/cap/a8f7e7dd-8e98-9c7a-13f8-786a2102e9b2
+2024-08-16 03:09:37 [info]: Batch processed in 1.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+Total Execution Time: 1.00 seconds
+Batch processed: 1 notifications sent.
+2024-08-16 03:09:37: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-16 03:09:37: Master script execution completed.
+2024-08-16 03:11:46: Starting master script execution...
+2024-08-16 03:11:46: Executing script 0: subsistence_health_check.php
+2024-08-16 03:11:46: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-16 03:11:46: Output from subsistence_health_check.php:
+2024-08-16 03:11:46: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:11:46]  Identified 59 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-16 03:11:46]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-16 03:11:46]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-16 03:11:46]  Identified 13 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-16 03:11:46]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-16 03:11:46]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-16 03:11:46]  Identified 18 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-16 03:11:46]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-16 03:11:46]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-16 03:11:46]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-16 03:11:46: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-16 03:11:46: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-16 03:11:46: Executing script 1: player_age_update.php
+2024-08-16 03:11:46: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-16 03:11:46: Output from player_age_update.php:
+2024-08-16 03:11:46: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:11:46]  Successfully connected to the database.
+
+[2024-08-16 03:11:46]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-16 03:11:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:11:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:11:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:11:46]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-16 03:11:47: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-16 03:11:47: Executing script 2: update_player_age_groups.php
+2024-08-16 03:11:47: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-16 03:11:47: Output from update_player_age_groups.php:
+2024-08-16 03:11:47: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-16 03:11:47: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-16 03:11:47: Executing script 3: essence_update.php
+2024-08-16 03:11:47: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-16 03:11:47: Output from essence_update.php:
+2024-08-16 03:11:47: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-16 03:11:47: Successfully connected to the database.
+2024-08-16 03:11:47: Total Players to be processed: 0 in 0 batches.
+2024-08-16 03:11:47: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-16 03:11:47: Executing script 4: process_sleep_end_players.php
+2024-08-16 03:11:47: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-16 03:11:47: Output from process_sleep_end_players.php:
+2024-08-16 03:11:47: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:11:47]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-16 03:11:48: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-16 03:11:48: Executing script 5: check_overseers_online_status.php
+2024-08-16 03:11:48: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-16 03:11:49: Output from check_overseers_online_status.php:
+2024-08-16 03:11:49: Return value: 0
+Output:
+2024-08-16 03:11:48 [info]: Starting overseer status check script.
+2024-08-16 03:11:48 [info]: Query executed. Found 7 overseers to process.
+2024-08-16 03:11:48 [info]: Overseer 1 is online. Counter reset.
+2024-08-16 03:11:48 [info]: Overseer 2 is online. Counter reset.
+2024-08-16 03:11:48 [info]: Overseer 3 is online. Counter reset.
+2024-08-16 03:11:48 [info]: Overseer 4 is online. Counter reset.
+2024-08-16 03:11:48 [info]: Overseer 5 is online. Counter reset.
+2024-08-16 03:11:48 [info]: Overseer 8 is online. Counter reset.
+2024-08-16 03:11:48 [info]: Overseer 11 is online. Counter reset.
+2024-08-16 03:11:48 [info]: Batch processed in 0.29 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 7
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.29 seconds
+Batch processed: 7 overseers checked.
+2024-08-16 03:11:49: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-16 03:11:49: Executing script 6: overseer_death_check.php
+2024-08-16 03:11:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-16 03:11:50: Output from overseer_death_check.php:
+2024-08-16 03:11:50: Return value: 0
+Output:
+2024-08-16 03:11:49 [info]: Alive status IDs: 1, 7, 8
+2024-08-16 03:11:49 [info]: Query executed. Found 7 online overseers to process.
+2024-08-16 03:11:50 [info]: Notification sent to URL: http://simhost-0fd7a07326b01e2a6.agni.secondlife.io:12046/cap/a8f7e7dd-8e98-9c7a-13f8-786a2102e9b2
+2024-08-16 03:11:50 [info]: Batch processed in 1.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+Total Execution Time: 1.00 seconds
+Batch processed: 1 notifications sent.
+2024-08-16 03:11:51: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-16 03:11:51: Master script execution completed.
+2024-08-16 03:17:48: Starting master script execution...
+2024-08-16 03:17:48: Executing script 0: subsistence_health_check.php
+2024-08-16 03:17:48: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-16 03:17:48: Output from subsistence_health_check.php:
+2024-08-16 03:17:48: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:17:48]  Identified 59 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-16 03:17:48]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-16 03:17:48]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-16 03:17:48]  Identified 13 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-16 03:17:48]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-16 03:17:48]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-16 03:17:48]  Identified 18 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-16 03:17:48]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-16 03:17:48]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-16 03:17:48]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-16 03:17:48: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-16 03:17:49: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-16 03:17:49: Executing script 1: player_age_update.php
+2024-08-16 03:17:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-16 03:17:49: Output from player_age_update.php:
+2024-08-16 03:17:49: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:17:49]  Successfully connected to the database.
+
+[2024-08-16 03:17:49]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-16 03:17:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:17:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:17:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:17:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-16 03:17:49: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-16 03:17:49: Executing script 2: update_player_age_groups.php
+2024-08-16 03:17:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-16 03:17:49: Output from update_player_age_groups.php:
+2024-08-16 03:17:49: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-16 03:17:49: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-16 03:17:49: Executing script 3: essence_update.php
+2024-08-16 03:17:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-16 03:17:49: Output from essence_update.php:
+2024-08-16 03:17:49: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-16 03:17:49: Successfully connected to the database.
+2024-08-16 03:17:49: Total Players to be processed: 0 in 0 batches.
+2024-08-16 03:17:49: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-16 03:17:49: Executing script 4: process_sleep_end_players.php
+2024-08-16 03:17:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-16 03:17:49: Output from process_sleep_end_players.php:
+2024-08-16 03:17:49: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:17:49]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-16 03:17:50: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-16 03:17:50: Executing script 5: check_overseers_online_status.php
+2024-08-16 03:17:50: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-16 03:17:51: Output from check_overseers_online_status.php:
+2024-08-16 03:17:51: Return value: 0
+Output:
+2024-08-16 03:17:50 [info]: Starting overseer status check script.
+2024-08-16 03:17:50 [info]: Query executed. Found 7 overseers to process.
+2024-08-16 03:17:50 [info]: Overseer 1 is online. Counter reset.
+2024-08-16 03:17:50 [info]: Overseer 2 is online. Counter reset.
+2024-08-16 03:17:50 [info]: Overseer 3 is online. Counter reset.
+2024-08-16 03:17:50 [info]: Overseer 4 is online. Counter reset.
+2024-08-16 03:17:50 [info]: Overseer 5 is online. Counter reset.
+2024-08-16 03:17:50 [info]: Overseer 8 is online. Counter reset.
+2024-08-16 03:17:50 [info]: Overseer 11 is online. Counter reset.
+2024-08-16 03:17:50 [info]: Batch processed in 0.54 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 7
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.54 seconds
+Batch processed: 7 overseers checked.
+2024-08-16 03:17:51: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-16 03:17:51: Executing script 6: overseer_death_check.php
+2024-08-16 03:17:51: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-16 03:17:52: Output from overseer_death_check.php:
+2024-08-16 03:17:52: Return value: 0
+Output:
+2024-08-16 03:17:51 [info]: Alive status IDs: 1, 7, 8
+2024-08-16 03:17:51 [info]: Query executed. Found 7 online overseers to process.
+2024-08-16 03:17:52 [info]: Notification sent to URL: http://simhost-0fd7a07326b01e2a6.agni.secondlife.io:12046/cap/a8f7e7dd-8e98-9c7a-13f8-786a2102e9b2
+2024-08-16 03:17:52 [info]: Batch processed in 1.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+Total Execution Time: 1.00 seconds
+Batch processed: 1 notifications sent.
+2024-08-16 03:17:53: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-16 03:17:53: Master script execution completed.
+2024-08-16 03:18:05: Starting master script execution...
+2024-08-16 03:18:05: Executing script 0: subsistence_health_check.php
+2024-08-16 03:18:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-16 03:18:05: Output from subsistence_health_check.php:
+2024-08-16 03:18:05: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:18:05]  Identified 59 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-16 03:18:05]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-16 03:18:05]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-16 03:18:05]  Identified 13 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-16 03:18:05]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-16 03:18:05]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-16 03:18:05]  Identified 18 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-16 03:18:05]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-16 03:18:05]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-16 03:18:05]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-16 03:18:05: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-16 03:18:05: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-16 03:18:05: Executing script 1: player_age_update.php
+2024-08-16 03:18:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-16 03:18:05: Output from player_age_update.php:
+2024-08-16 03:18:05: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:18:05]  Successfully connected to the database.
+
+[2024-08-16 03:18:05]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-16 03:18:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:18:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:18:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-16 03:18:05]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-16 03:18:06: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-16 03:18:06: Executing script 2: update_player_age_groups.php
+2024-08-16 03:18:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-16 03:18:06: Output from update_player_age_groups.php:
+2024-08-16 03:18:06: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 56 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 101 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-16 03:18:06: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-16 03:18:06: Executing script 3: essence_update.php
+2024-08-16 03:18:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-16 03:18:06: Output from essence_update.php:
+2024-08-16 03:18:06: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-16 03:18:06: Successfully connected to the database.
+2024-08-16 03:18:06: Total Players to be processed: 0 in 0 batches.
+2024-08-16 03:18:06: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-16 03:18:06: Executing script 4: process_sleep_end_players.php
+2024-08-16 03:18:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-16 03:18:06: Output from process_sleep_end_players.php:
+2024-08-16 03:18:06: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-16 03:18:06]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-16 03:18:06: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-16 03:18:06: Executing script 5: check_overseers_online_status.php
+2024-08-16 03:18:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-16 03:18:08: Output from check_overseers_online_status.php:
+2024-08-16 03:18:08: Return value: 0
+Output:
+2024-08-16 03:18:06 [info]: Starting overseer status check script.
+2024-08-16 03:18:06 [info]: Query executed. Found 7 overseers to process.
+2024-08-16 03:18:06 [info]: Overseer 1 is online. Counter reset.
+2024-08-16 03:18:06 [info]: Overseer 2 is online. Counter reset.
+2024-08-16 03:18:06 [info]: Overseer 3 is online. Counter reset.
+2024-08-16 03:18:06 [info]: Overseer 4 is online. Counter reset.
+2024-08-16 03:18:06 [info]: Overseer 5 is online. Counter reset.
+2024-08-16 03:18:07 [info]: Overseer 8 is online. Counter reset.
+2024-08-16 03:18:07 [info]: Overseer 11 is online. Counter reset.
+2024-08-16 03:18:07 [info]: Batch processed in 0.32 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 7
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.33 seconds
+Batch processed: 7 overseers checked.
+2024-08-16 03:18:08: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-16 03:18:08: Executing script 6: overseer_death_check.php
+2024-08-16 03:18:08: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-16 03:18:09: Output from overseer_death_check.php:
+2024-08-16 03:18:09: Return value: 0
+Output:
+2024-08-16 03:18:08 [info]: Alive status IDs: 1, 7, 8
+2024-08-16 03:18:08 [info]: Query executed. Found 7 online overseers to process.
+2024-08-16 03:18:09 [info]: Notification sent to URL: http://simhost-0fd7a07326b01e2a6.agni.secondlife.io:12046/cap/a8f7e7dd-8e98-9c7a-13f8-786a2102e9b2
+2024-08-16 03:18:09 [info]: Batch processed in 1.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+Total Execution Time: 1.00 seconds
+Batch processed: 1 notifications sent.
+2024-08-16 03:18:09: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-16 03:18:09: Master script execution completed.
+2024-08-17 08:08:18: Starting master script execution...
+2024-08-17 08:08:18: Executing script 0: subsistence_health_check.php
+2024-08-17 08:08:18: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 08:08:19: Output from subsistence_health_check.php:
+2024-08-17 08:08:19: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:08:18]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 08:08:19]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 08:08:19]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 08:08:19]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 08:08:19]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 08:08:19]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 08:08:19]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 08:08:19]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 08:08:19]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 08:08:19]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-17 08:08:20: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-17 08:08:20: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-17 08:08:20: Executing script 1: player_age_update.php
+2024-08-17 08:08:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 08:08:20: Output from player_age_update.php:
+2024-08-17 08:08:20: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:08:20]  Successfully connected to the database.
+
+[2024-08-17 08:08:20]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-17 08:08:20]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:08:20]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:08:20]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:08:20]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 08:08:20: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 08:08:20: Executing script 2: update_player_age_groups.php
+2024-08-17 08:08:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 08:08:20: Output from update_player_age_groups.php:
+2024-08-17 08:08:20: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 08:08:20: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 08:08:20: Executing script 3: essence_update.php
+2024-08-17 08:08:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 08:08:20: Output from essence_update.php:
+2024-08-17 08:08:20: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 08:08:20: Successfully connected to the database.
+2024-08-17 08:08:20: Total Players to be processed: 0 in 0 batches.
+2024-08-17 08:08:20: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 08:08:20: Executing script 4: process_sleep_end_players.php
+2024-08-17 08:08:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 08:08:20: Output from process_sleep_end_players.php:
+2024-08-17 08:08:20: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:08:20]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 08:08:21: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 08:08:21: Executing script 5: check_overseers_online_status.php
+2024-08-17 08:08:21: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 08:08:22: Output from check_overseers_online_status.php:
+2024-08-17 08:08:22: Return value: 0
+Output:
+2024-08-17 08:08:21 [info]: Starting overseer status check script.
+2024-08-17 08:08:21 [info]: Query executed. Found 8 overseers to process.
+2024-08-17 08:08:21 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 08:08:21 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 08:08:21 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 08:08:21 [info]: Overseer 4 is offline. Counter increased to 1.
+2024-08-17 08:08:21 [info]: Overseer 5 is offline. Counter increased to 1.
+2024-08-17 08:08:21 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 08:08:21 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 08:08:21 [info]: Overseer 8 is offline. Counter increased to 1.
+2024-08-17 08:08:21 [info]: Batch processed in 0.32 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 8
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.32 seconds
+Batch processed: 8 overseers checked.
+2024-08-17 08:08:22: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 08:08:22: Executing script 6: overseer_death_check.php
+2024-08-17 08:08:22: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 08:08:22: Output from overseer_death_check.php:
+2024-08-17 08:08:22: Return value: 0
+Output:
+2024-08-17 08:08:22 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 08:08:22 [info]: Query executed. Found 7 online overseers to process.
+2024-08-17 08:08:22 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 08:08:23: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 08:08:23: Master script execution completed.
+2024-08-17 08:24:09: Starting master script execution...
+2024-08-17 08:24:09: Executing script 0: subsistence_health_check.php
+2024-08-17 08:24:09: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 08:24:09: Completed execution of subsistence_health_check.php
+2024-08-17 08:24:09: Executing script 1: player_age_update.php
+2024-08-17 08:24:09: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 08:25:19: Starting master script execution...
+2024-08-17 08:25:19: Executing script 0: subsistence_health_check.php
+2024-08-17 08:25:19: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 08:25:19: Output from subsistence_health_check.php:
+2024-08-17 08:25:19: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:25:19]  Identified 56 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 08:25:19]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 08:25:19]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 08:25:19]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 08:25:19]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 08:25:19]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 08:25:19]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 08:25:19]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 08:25:19]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 08:25:19]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-17 08:25:19: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-17 08:25:19: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-17 08:25:19: Executing script 1: player_age_update.php
+2024-08-17 08:25:19: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 08:25:19: Output from player_age_update.php:
+2024-08-17 08:25:19: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:25:19]  Successfully connected to the database.
+
+[2024-08-17 08:25:19]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-17 08:25:19]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:25:19]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:25:19]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:25:19]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 08:25:20: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 08:25:20: Executing script 2: update_player_age_groups.php
+2024-08-17 08:25:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 08:25:20: Output from update_player_age_groups.php:
+2024-08-17 08:25:20: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 08:25:20: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 08:25:20: Executing script 3: essence_update.php
+2024-08-17 08:25:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 08:25:20: Output from essence_update.php:
+2024-08-17 08:25:20: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 08:25:20: Successfully connected to the database.
+2024-08-17 08:25:20: Total Players to be processed: 0 in 0 batches.
+2024-08-17 08:25:20: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 08:25:20: Executing script 4: process_sleep_end_players.php
+2024-08-17 08:25:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 08:25:20: Output from process_sleep_end_players.php:
+2024-08-17 08:25:20: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:25:20]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 08:25:20: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 08:25:20: Executing script 5: check_overseers_online_status.php
+2024-08-17 08:25:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 08:25:22: Output from check_overseers_online_status.php:
+2024-08-17 08:25:22: Return value: 0
+Output:
+2024-08-17 08:25:20 [info]: Starting overseer status check script.
+2024-08-17 08:25:20 [info]: Query executed. Found 8 overseers to process.
+2024-08-17 08:25:21 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 08:25:21 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 08:25:21 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 08:25:21 [info]: Overseer 4 is offline. Counter increased to 2.
+2024-08-17 08:25:21 [info]: Overseer 5 is offline. Counter increased to 2.
+2024-08-17 08:25:21 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 08:25:21 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 08:25:21 [info]: Overseer 8 is offline. Counter increased to 2.
+2024-08-17 08:25:21 [info]: Batch processed in 0.56 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 8
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.56 seconds
+Batch processed: 8 overseers checked.
+2024-08-17 08:25:22: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 08:25:22: Executing script 6: overseer_death_check.php
+2024-08-17 08:25:22: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 08:25:22: Output from overseer_death_check.php:
+2024-08-17 08:25:22: Return value: 0
+Output:
+2024-08-17 08:25:22 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 08:25:22 [info]: Query executed. Found 7 online overseers to process.
+2024-08-17 08:25:22 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 08:25:22: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 08:25:22: Master script execution completed.
+2024-08-17 08:28:11: Starting master script execution...
+2024-08-17 08:28:11: Executing script 0: subsistence_health_check.php
+2024-08-17 08:28:11: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 08:28:11: Output from subsistence_health_check.php:
+2024-08-17 08:28:11: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:28:11]  Identified 56 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 08:28:11]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 08:28:11]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 08:28:11]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 08:28:11]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 08:28:11]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 08:28:11]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 08:28:11]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 08:28:11]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 08:28:11]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-17 08:28:12: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:12: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-17 08:28:12: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:12: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-17 08:28:12: Executing script 1: player_age_update.php
+2024-08-17 08:28:12: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 08:28:12: Output from player_age_update.php:
+2024-08-17 08:28:12: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:28:12]  Successfully connected to the database.
+
+[2024-08-17 08:28:12]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-17 08:28:12]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:28:12]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:28:12]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:28:12]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 08:28:12: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:12: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 08:28:12: Executing script 2: update_player_age_groups.php
+2024-08-17 08:28:12: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 08:28:12: Output from update_player_age_groups.php:
+2024-08-17 08:28:12: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 08:28:12: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:12: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 08:28:12: Executing script 3: essence_update.php
+2024-08-17 08:28:12: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 08:28:12: Output from essence_update.php:
+2024-08-17 08:28:12: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 08:28:12: Successfully connected to the database.
+2024-08-17 08:28:12: Total Players to be processed: 0 in 0 batches.
+2024-08-17 08:28:13: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:13: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 08:28:13: Executing script 4: process_sleep_end_players.php
+2024-08-17 08:28:13: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 08:28:13: Output from process_sleep_end_players.php:
+2024-08-17 08:28:13: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:28:13]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 08:28:13: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:13: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 08:28:13: Executing script 5: check_overseers_online_status.php
+2024-08-17 08:28:13: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 08:28:14: Output from check_overseers_online_status.php:
+2024-08-17 08:28:14: Return value: 0
+Output:
+2024-08-17 08:28:13 [info]: Starting overseer status check script.
+2024-08-17 08:28:13 [info]: Query executed. Found 8 overseers to process.
+2024-08-17 08:28:13 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 08:28:13 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 08:28:13 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 08:28:13 [info]: Overseer 4 marked as offline. Offline for 3 days.
+2024-08-17 08:28:13 [info]: Overseer 5 marked as offline. Offline for 3 days.
+2024-08-17 08:28:13 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 08:28:13 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 08:28:13 [info]: Overseer 8 marked as offline. Offline for 3 days.
+2024-08-17 08:28:13 [info]: Batch processed in 0.39 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 8
+Total Overseers Marked Offline: 3
+Total Execution Time: 1.39 seconds
+Batch processed: 8 overseers checked.
+2024-08-17 08:28:15: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:15: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 08:28:15: Executing script 6: overseer_death_check.php
+2024-08-17 08:28:15: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 08:28:15: Output from overseer_death_check.php:
+2024-08-17 08:28:15: Return value: 0
+Output:
+2024-08-17 08:28:15 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 08:28:15 [info]: Query executed. Found 5 online overseers to process.
+2024-08-17 08:28:15 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 08:28:15: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:28:15: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 08:28:15: Master script execution completed.
+2024-08-17 08:36:16: Starting master script execution...
+2024-08-17 08:36:16: Executing script 0: subsistence_health_check.php
+2024-08-17 08:36:16: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 08:36:16: Output from subsistence_health_check.php:
+2024-08-17 08:36:16: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           0    |
+| Total Players Who Died:            0    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:36:16]  Identified 56 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 08:36:16]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 08:36:16]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 08:36:16]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 08:36:16]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 08:36:16]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 08:36:16]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 08:36:16]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 08:36:16]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 08:36:16]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-17 08:36:16: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:16: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-17 08:36:17: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:17: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-17 08:36:17: Executing script 1: player_age_update.php
+2024-08-17 08:36:17: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 08:36:17: Output from player_age_update.php:
+2024-08-17 08:36:17: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:36:17]  Successfully connected to the database.
+
+[2024-08-17 08:36:17]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-17 08:36:17]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:36:17]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:36:17]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:36:17]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 08:36:17: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:17: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 08:36:17: Executing script 2: update_player_age_groups.php
+2024-08-17 08:36:17: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 08:36:17: Output from update_player_age_groups.php:
+2024-08-17 08:36:17: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 08:36:17: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:17: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 08:36:17: Executing script 3: essence_update.php
+2024-08-17 08:36:17: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 08:36:17: Output from essence_update.php:
+2024-08-17 08:36:17: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 08:36:17: Successfully connected to the database.
+2024-08-17 08:36:17: Total Players to be processed: 0 in 0 batches.
+2024-08-17 08:36:17: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:17: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 08:36:17: Executing script 4: process_sleep_end_players.php
+2024-08-17 08:36:17: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 08:36:17: Output from process_sleep_end_players.php:
+2024-08-17 08:36:17: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:36:17]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 08:36:18: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:18: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 08:36:18: Executing script 5: check_overseers_online_status.php
+2024-08-17 08:36:18: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 08:36:19: Output from check_overseers_online_status.php:
+2024-08-17 08:36:19: Return value: 0
+Output:
+2024-08-17 08:36:18 [info]: Starting overseer status check script.
+2024-08-17 08:36:18 [info]: Query executed. Found 5 overseers to process.
+2024-08-17 08:36:18 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 08:36:18 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 08:36:18 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 08:36:18 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 08:36:18 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 08:36:18 [info]: Batch processed in 0.49 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 5
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.49 seconds
+Batch processed: 5 overseers checked.
+2024-08-17 08:36:19: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:19: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 08:36:19: Executing script 6: overseer_death_check.php
+2024-08-17 08:36:19: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 08:36:19: Output from overseer_death_check.php:
+2024-08-17 08:36:19: Return value: 0
+Output:
+2024-08-17 08:36:19 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 08:36:19 [info]: Query executed. Found 5 online overseers to process.
+2024-08-17 08:36:19 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 08:36:20: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:36:20: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 08:36:20: Master script execution completed.
+2024-08-17 08:45:20: Starting master script execution...
+2024-08-17 08:45:20: Executing script 0: subsistence_health_check.php
+2024-08-17 08:45:20: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 08:45:21: Output from subsistence_health_check.php:
+2024-08-17 08:45:21: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:45:20]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 08:45:21]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 08:45:21]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 08:45:21]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 08:45:21]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 08:45:21]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 08:45:21]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 08:45:21]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 08:45:21]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 08:45:21]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-17 08:45:21: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:21: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-17 08:45:22: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:22: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-17 08:45:22: Executing script 1: player_age_update.php
+2024-08-17 08:45:22: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 08:45:22: Output from player_age_update.php:
+2024-08-17 08:45:22: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:45:22]  Successfully connected to the database.
+
+[2024-08-17 08:45:22]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-17 08:45:22]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:45:22]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:45:22]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:45:22]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 08:45:22: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:22: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 08:45:22: Executing script 2: update_player_age_groups.php
+2024-08-17 08:45:22: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 08:45:22: Output from update_player_age_groups.php:
+2024-08-17 08:45:22: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 08:45:22: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:22: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 08:45:22: Executing script 3: essence_update.php
+2024-08-17 08:45:22: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 08:45:22: Output from essence_update.php:
+2024-08-17 08:45:22: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 08:45:22: Successfully connected to the database.
+2024-08-17 08:45:22: Total Players to be processed: 0 in 0 batches.
+2024-08-17 08:45:22: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:22: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 08:45:22: Executing script 4: process_sleep_end_players.php
+2024-08-17 08:45:22: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 08:45:22: Output from process_sleep_end_players.php:
+2024-08-17 08:45:22: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:45:22]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 08:45:23: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:23: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 08:45:23: Executing script 5: check_overseers_online_status.php
+2024-08-17 08:45:23: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 08:45:24: Output from check_overseers_online_status.php:
+2024-08-17 08:45:24: Return value: 0
+Output:
+2024-08-17 08:45:23 [info]: Starting overseer status check script.
+2024-08-17 08:45:23 [info]: Query executed. Found 5 overseers to process.
+2024-08-17 08:45:23 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 08:45:23 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 08:45:23 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 08:45:23 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 08:45:23 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 08:45:23 [info]: Batch processed in 0.54 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 5
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.54 seconds
+Batch processed: 5 overseers checked.
+2024-08-17 08:45:24: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:24: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 08:45:24: Executing script 6: overseer_death_check.php
+2024-08-17 08:45:24: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 08:45:24: Output from overseer_death_check.php:
+2024-08-17 08:45:24: Return value: 0
+Output:
+2024-08-17 08:45:24 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 08:45:24 [info]: Query executed. Found 5 online overseers to process.
+2024-08-17 08:45:24 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 08:45:25: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:45:25: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 08:45:25: Master script execution completed.
+2024-08-17 08:50:01: Starting master script execution...
+2024-08-17 08:50:01: Executing script 0: subsistence_health_check.php
+2024-08-17 08:50:01: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 08:50:02: Output from subsistence_health_check.php:
+2024-08-17 08:50:02: Return value: 0
+Output:
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:50:01]  Identified 57 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-17 08:50:02]  Identified 15 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-17 08:50:02]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-17 08:50:02]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-17 08:50:02]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-17 08:50:02]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-17 08:50:02]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-17 08:50:02]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-17 08:50:02]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-17 08:50:02]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-17 08:50:03: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:03: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-17 08:50:03: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:03: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-17 08:50:03: Executing script 1: player_age_update.php
+2024-08-17 08:50:03: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 08:50:03: Output from player_age_update.php:
+2024-08-17 08:50:03: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:50:03]  Successfully connected to the database.
+
+[2024-08-17 08:50:03]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-17 08:50:03]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:50:03]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:50:03]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 08:50:03]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 08:50:03: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:03: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 08:50:03: Executing script 2: update_player_age_groups.php
+2024-08-17 08:50:03: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 08:50:03: Output from update_player_age_groups.php:
+2024-08-17 08:50:03: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 08:50:03: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:03: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 08:50:03: Executing script 3: essence_update.php
+2024-08-17 08:50:03: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 08:50:03: Output from essence_update.php:
+2024-08-17 08:50:03: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 08:50:03: Successfully connected to the database.
+2024-08-17 08:50:03: Total Players to be processed: 0 in 0 batches.
+2024-08-17 08:50:04: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:04: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 08:50:04: Executing script 4: process_sleep_end_players.php
+2024-08-17 08:50:04: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 08:50:04: Output from process_sleep_end_players.php:
+2024-08-17 08:50:04: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 08:50:04]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 08:50:04: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:04: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 08:50:04: Executing script 5: check_overseers_online_status.php
+2024-08-17 08:50:04: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 08:50:05: Output from check_overseers_online_status.php:
+2024-08-17 08:50:05: Return value: 0
+Output:
+2024-08-17 08:50:04 [info]: Starting overseer status check script.
+2024-08-17 08:50:04 [info]: Query executed. Found 5 overseers to process.
+2024-08-17 08:50:04 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 08:50:04 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 08:50:04 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 08:50:04 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 08:50:04 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 08:50:04 [info]: Batch processed in 0.36 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 5
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.36 seconds
+Batch processed: 5 overseers checked.
+2024-08-17 08:50:05: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:05: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 08:50:05: Executing script 6: overseer_death_check.php
+2024-08-17 08:50:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 08:50:05: Output from overseer_death_check.php:
+2024-08-17 08:50:05: Return value: 0
+Output:
+2024-08-17 08:50:05 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 08:50:05 [info]: Query executed. Found 5 online overseers to process.
+2024-08-17 08:50:05 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 08:50:06: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 08:50:06: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 08:50:06: Master script execution completed.
+2024-08-17 11:12:48: Starting master script execution...
+2024-08-17 11:12:48: Executing script 0: subsistence_health_check.php
+2024-08-17 11:12:48: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 11:12:48: Output from subsistence_health_check.php:
+2024-08-17 11:12:48: Script executed, but produced no output. Return value: 255, Last line: 
+2024-08-17 11:12:48: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:12:48: Successfully posted part 1/1 to Discord for subsistence_health_check.php
+2024-08-17 11:12:48: Executing script 1: player_age_update.php
+2024-08-17 11:12:48: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 11:12:48: Output from player_age_update.php:
+2024-08-17 11:12:48: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            1 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:12:48]  Successfully connected to the database.
+
+[2024-08-17 11:12:48]  Total Players to be processed for status alive: 1 in 1 batches.
+
+[2024-08-17 11:12:48]  Status alive - Batch 0: Successfully updated ages for 1 players.
+
+[2024-08-17 11:12:48]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 11:12:48]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 11:12:48]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 11:12:48]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 11:12:48: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:12:48: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 11:12:48: Executing script 2: update_player_age_groups.php
+2024-08-17 11:12:48: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 11:12:48: Output from update_player_age_groups.php:
+2024-08-17 11:12:48: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 11:12:49: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:12:49: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 11:12:49: Executing script 3: essence_update.php
+2024-08-17 11:12:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 11:12:49: Output from essence_update.php:
+2024-08-17 11:12:49: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 11:12:49: Successfully connected to the database.
+2024-08-17 11:12:49: Total Players to be processed: 1 in 1 batches.
+2024-08-17 11:12:49: Batch 0: Successfully updated essence for 1 players.
+2024-08-17 11:12:49: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:12:49: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 11:12:49: Executing script 4: process_sleep_end_players.php
+2024-08-17 11:12:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 11:12:49: Output from process_sleep_end_players.php:
+2024-08-17 11:12:49: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:12:49]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 11:12:49: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:12:49: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 11:12:49: Executing script 5: check_overseers_online_status.php
+2024-08-17 11:12:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 11:12:50: Output from check_overseers_online_status.php:
+2024-08-17 11:12:50: Return value: 0
+Output:
+2024-08-17 11:12:49 [info]: Starting overseer status check script.
+2024-08-17 11:12:49 [info]: Query executed. Found 5 overseers to process.
+2024-08-17 11:12:49 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 11:12:49 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 11:12:49 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 11:12:49 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 11:12:49 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 11:12:49 [info]: Batch processed in 0.22 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 5
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.22 seconds
+Batch processed: 5 overseers checked.
+2024-08-17 11:12:51: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:12:51: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 11:12:51: Executing script 6: overseer_death_check.php
+2024-08-17 11:12:51: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 11:12:51: Output from overseer_death_check.php:
+2024-08-17 11:12:51: Return value: 0
+Output:
+2024-08-17 11:12:51 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 11:12:51 [info]: Query executed. Found 5 online overseers to process.
+2024-08-17 11:12:51 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 11:12:51: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:12:51: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 11:12:51: Master script execution completed.
+2024-08-17 11:19:03: Starting master script execution...
+2024-08-17 11:19:03: Executing script 0: subsistence_health_check.php
+2024-08-17 11:19:03: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-17 11:19:04: Output from subsistence_health_check.php:
+2024-08-17 11:19:04: Script executed, but produced no output. Return value: 255, Last line: 
+2024-08-17 11:19:04: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:19:04: Successfully posted part 1/1 to Discord for subsistence_health_check.php
+2024-08-17 11:19:04: Executing script 1: player_age_update.php
+2024-08-17 11:19:04: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-17 11:19:04: Output from player_age_update.php:
+2024-08-17 11:19:04: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:19:04]  Successfully connected to the database.
+
+[2024-08-17 11:19:04]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-17 11:19:04]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 11:19:04]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 11:19:04]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-17 11:19:04]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-17 11:19:04: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:19:04: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-17 11:19:04: Executing script 2: update_player_age_groups.php
+2024-08-17 11:19:04: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-17 11:19:04: Output from update_player_age_groups.php:
+2024-08-17 11:19:04: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 283 players
+Age Group 2: 15 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-17 11:19:04: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:19:04: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-17 11:19:04: Executing script 3: essence_update.php
+2024-08-17 11:19:04: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-17 11:19:04: Output from essence_update.php:
+2024-08-17 11:19:04: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-17 11:19:04: Successfully connected to the database.
+2024-08-17 11:19:04: Total Players to be processed: 0 in 0 batches.
+2024-08-17 11:19:05: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:19:05: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-17 11:19:05: Executing script 4: process_sleep_end_players.php
+2024-08-17 11:19:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-17 11:19:05: Output from process_sleep_end_players.php:
+2024-08-17 11:19:05: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                1 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-17 11:19:05]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-17 11:19:05: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:19:05: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-17 11:19:05: Executing script 5: check_overseers_online_status.php
+2024-08-17 11:19:05: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-17 11:19:06: Output from check_overseers_online_status.php:
+2024-08-17 11:19:06: Return value: 0
+Output:
+2024-08-17 11:19:05 [info]: Starting overseer status check script.
+2024-08-17 11:19:05 [info]: Query executed. Found 5 overseers to process.
+2024-08-17 11:19:05 [info]: Overseer 1 is online. Counter reset.
+2024-08-17 11:19:05 [info]: Overseer 2 is online. Counter reset.
+2024-08-17 11:19:05 [info]: Overseer 3 is online. Counter reset.
+2024-08-17 11:19:05 [info]: Overseer 6 is online. Counter reset.
+2024-08-17 11:19:05 [info]: Overseer 7 is online. Counter reset.
+2024-08-17 11:19:05 [info]: Batch processed in 0.23 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 5
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.23 seconds
+Batch processed: 5 overseers checked.
+2024-08-17 11:19:06: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:19:06: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-17 11:19:06: Executing script 6: overseer_death_check.php
+2024-08-17 11:19:06: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-17 11:19:06: Output from overseer_death_check.php:
+2024-08-17 11:19:06: Return value: 0
+Output:
+2024-08-17 11:19:06 [info]: Alive status IDs: 1, 7, 8
+2024-08-17 11:19:06 [info]: Query executed. Found 5 online overseers to process.
+2024-08-17 11:19:06 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-17 11:19:07: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-17 11:19:07: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-17 11:19:07: Master script execution completed.
+2024-08-18 04:28:47: Starting master script execution...
+2024-08-18 04:28:47: Executing script 0: subsistence_health_check.php
+2024-08-18 04:28:47: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-08-18 04:28:48: Output from subsistence_health_check.php:
+2024-08-18 04:28:48: Return value: 0
+Output:
+Discord webhook sent successfully
+Death log entry added successfully. Death ID: 3299
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           1    |
+| Total Players Who Died:            1    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:28:47]  Identified 55 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-08-18 04:28:47]  Added death log entry for player ID: 220. Death ID: 3299
+
+[2024-08-18 04:28:48]  Batch 0: Processed 1 players, 1 died in age group 'Neonate' (ID: 1).
+
+[2024-08-18 04:28:48]  Identified 16 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-08-18 04:28:48]  Identified 14 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-08-18 04:28:48]  Identified 17 players in age group 'Novice' (ID: 25) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Novice' (ID: 25).
+
+[2024-08-18 04:28:48]  Identified 2 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-08-18 04:28:48]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-08-18 04:28:48]  Batch 0: Processed 0 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-08-18 04:28:49: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:49: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-08-18 04:28:49: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:49: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-08-18 04:28:49: Executing script 1: player_age_update.php
+2024-08-18 04:28:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-08-18 04:28:49: Output from player_age_update.php:
+2024-08-18 04:28:49: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:            0 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:28:49]  Successfully connected to the database.
+
+[2024-08-18 04:28:49]  Total Players to be processed for status alive: 0 in 0 batches.
+
+[2024-08-18 04:28:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-18 04:28:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-18 04:28:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-08-18 04:28:49]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-08-18 04:28:49: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:49: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-08-18 04:28:49: Executing script 2: update_player_age_groups.php
+2024-08-18 04:28:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-08-18 04:28:49: Output from update_player_age_groups.php:
+2024-08-18 04:28:49: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 282 players
+Age Group 2: 16 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 282 players
+Age Group 2: 16 players
+Age Group 10: 1 players
+Age Group 15: 57 players
+Age Group 16: 1 players
+Age Group 24: 1 players
+Age Group 25: 100 players
+Age Group 26: 2 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-08-18 04:28:49: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:49: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-08-18 04:28:49: Executing script 3: essence_update.php
+2024-08-18 04:28:49: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-08-18 04:28:49: Output from essence_update.php:
+2024-08-18 04:28:49: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-08-18 04:28:49: Successfully connected to the database.
+2024-08-18 04:28:49: Total Players to be processed: 1 in 1 batches.
+2024-08-18 04:28:49: Batch 0: Successfully updated essence for 1 players.
+2024-08-18 04:28:50: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:50: Successfully posted part 1/1 to Discord for essence_update.php
+2024-08-18 04:28:50: Executing script 4: process_sleep_end_players.php
+2024-08-18 04:28:50: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-08-18 04:28:50: Output from process_sleep_end_players.php:
+2024-08-18 04:28:50: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                0 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-08-18 04:28:50]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-08-18 04:28:50: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:50: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-08-18 04:28:50: Executing script 5: check_overseers_online_status.php
+2024-08-18 04:28:50: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-08-18 04:28:51: Output from check_overseers_online_status.php:
+2024-08-18 04:28:51: Return value: 0
+Output:
+2024-08-18 04:28:50 [info]: Starting overseer status check script.
+2024-08-18 04:28:50 [info]: Query executed. Found 7 overseers to process.
+2024-08-18 04:28:50 [info]: Overseer 1 is online. Counter reset.
+2024-08-18 04:28:50 [info]: Overseer 2 is online. Counter reset.
+2024-08-18 04:28:50 [info]: Overseer 3 is online. Counter reset.
+2024-08-18 04:28:50 [info]: Overseer 6 is online. Counter reset.
+2024-08-18 04:28:50 [info]: Overseer 7 is online. Counter reset.
+2024-08-18 04:28:50 [info]: Overseer 8 is online. Counter reset.
+2024-08-18 04:28:50 [info]: Overseer 9 is offline. Counter increased to 2.
+2024-08-18 04:28:50 [info]: Batch processed in 0.42 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 7
+Total Overseers Marked Offline: 0
+Total Execution Time: 1.42 seconds
+Batch processed: 7 overseers checked.
+2024-08-18 04:28:52: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:52: Successfully posted part 1/1 to Discord for check_overseers_online_status.php
+2024-08-18 04:28:52: Executing script 6: overseer_death_check.php
+2024-08-18 04:28:52: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-08-18 04:28:52: Output from overseer_death_check.php:
+2024-08-18 04:28:52: Return value: 0
+Output:
+2024-08-18 04:28:52 [info]: Alive status IDs: 1, 7, 8
+2024-08-18 04:28:52 [info]: Query executed. Found 6 online overseers to process.
+2024-08-18 04:28:52 [info]: Batch processed in 0.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 0
+Total Execution Time: 0.00 seconds
+2024-08-18 04:28:52: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-08-18 04:28:52: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-08-18 04:28:52: Master script execution completed.
+2024-11-19 03:45:27: Starting master script execution...
+2024-11-19 03:45:27: Executing script 0: subsistence_health_check.php
+2024-11-19 03:45:27: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/subsistence_health_check.php
+2024-11-19 03:45:35: Output from subsistence_health_check.php:
+2024-11-19 03:45:35: Return value: 0
+Output:
+Discord webhook sent successfully
+Death log entry added successfully. Death ID: 3511
+Discord webhook sent successfully
+Death log entry added successfully. Death ID: 3512
+Discord webhook sent successfully
+Death log entry added successfully. Death ID: 3513
+Discord webhook sent successfully
+Death log entry added successfully. Death ID: 3514
+Discord webhook sent successfully
+Death log entry added successfully. Death ID: 3515
+Discord webhook sent successfully
+Death log entry added successfully. Death ID: 3516
+
++-----------------------------------------+
+|   Subsistence Health Check Report       |
++-----------------------------------------+
+| Total Players Processed:           180    |
+| Total Players Who Died:            6    |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-11-19 03:45:27]  Identified 90 players in age group 'Neonate' (ID: 1) to process.
+
+[2024-11-19 03:45:27]  Added death log entry for player ID: 195. Death ID: 3511
+
+[2024-11-19 03:45:28]  Added death log entry for player ID: 561. Death ID: 3512
+
+[2024-11-19 03:45:29]  Added death log entry for player ID: 680. Death ID: 3513
+
+[2024-11-19 03:45:31]  Added death log entry for player ID: 699. Death ID: 3514
+
+[2024-11-19 03:45:32]  Added death log entry for player ID: 719. Death ID: 3515
+
+[2024-11-19 03:45:33]  Batch 0: Processed 84 players, 5 died in age group 'Neonate' (ID: 1).
+
+[2024-11-19 03:45:33]  Identified 21 players in age group 'Rising Adept' (ID: 2) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 21 players, 0 died in age group 'Rising Adept' (ID: 2).
+
+[2024-11-19 03:45:33]  Identified 1 players in age group 'Primordial Titan' (ID: 10) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 1 players, 0 died in age group 'Primordial Titan' (ID: 10).
+
+[2024-11-19 03:45:33]  Identified 23 players in age group 'Lupine Initiate' (ID: 15) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 23 players, 0 died in age group 'Lupine Initiate' (ID: 15).
+
+[2024-11-19 03:45:33]  Identified 4 players in age group 'Feral Novice' (ID: 16) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 4 players, 0 died in age group 'Feral Novice' (ID: 16).
+
+[2024-11-19 03:45:33]  Identified 1 players in age group 'Primeval Guardian' (ID: 24) to process.
+
+[2024-11-19 03:45:33]  Batch 0: Processed 1 players, 0 died in age group 'Primeval Guardian' (ID: 24).
+
+[2024-11-19 03:45:33]  Identified 40 players in age group 'Novice' (ID: 25) to process.
+
+[2024-11-19 03:45:34]  Added death log entry for player ID: 222. Death ID: 3516
+
+[2024-11-19 03:45:35]  Batch 0: Processed 40 players, 1 died in age group 'Novice' (ID: 25).
+
+[2024-11-19 03:45:35]  Identified 5 players in age group 'Emerging Acolyte' (ID: 26) to process.
+
+[2024-11-19 03:45:35]  Batch 0: Processed 5 players, 0 died in age group 'Emerging Acolyte' (ID: 26).
+
+[2024-11-19 03:45:35]  Identified 1 players in age group 'Ancient' (ID: 35) to process.
+
+[2024-11-19 03:45:35]  Batch 0: Processed 1 players, 0 died in age group 'Ancient' (ID: 35).
+
+2024-11-19 03:45:36: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:36: Successfully posted part 1/2 to Discord for subsistence_health_check.php
+2024-11-19 03:45:36: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:36: Successfully posted part 2/2 to Discord for subsistence_health_check.php
+2024-11-19 03:45:36: Executing script 1: player_age_update.php
+2024-11-19 03:45:36: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/player_age_update.php
+2024-11-19 03:45:36: Output from player_age_update.php:
+2024-11-19 03:45:36: Return value: 0
+Output:
+
++-----------------------------------------+
+|          Age Update Report             |
++-----------------------------------------+
+| Total Players Processed:          174 |
++-----------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-11-19 03:45:36]  Successfully connected to the database.
+
+[2024-11-19 03:45:36]  Total Players to be processed for status alive: 174 in 1 batches.
+
+[2024-11-19 03:45:36]  Status alive - Batch 0: Successfully updated ages for 174 players.
+
+[2024-11-19 03:45:36]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-11-19 03:45:36]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-11-19 03:45:36]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+[2024-11-19 03:45:36]  Total Players to be processed for status sleeping: 0 in 0 batches.
+
+2024-11-19 03:45:36: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:36: Successfully posted part 1/1 to Discord for player_age_update.php
+2024-11-19 03:45:36: Executing script 2: update_player_age_groups.php
+2024-11-19 03:45:36: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/update_player_age_groups.php
+2024-11-19 03:45:36: Output from update_player_age_groups.php:
+2024-11-19 03:45:36: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+Initial Age Group Counts:
+Age Group 1: 344 players
+Age Group 2: 22 players
+Age Group 10: 1 players
+Age Group 15: 73 players
+Age Group 16: 5 players
+Age Group 24: 1 players
+Age Group 25: 141 players
+Age Group 26: 5 players
+Age Group 35: 1 players
+
+Updated Age Group Counts:
+Age Group 1: 344 players
+Age Group 2: 22 players
+Age Group 10: 1 players
+Age Group 15: 73 players
+Age Group 16: 5 players
+Age Group 24: 1 players
+Age Group 25: 141 players
+Age Group 26: 5 players
+Age Group 35: 1 players
+
+Total players updated: 0
+2024-11-19 03:45:37: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:37: Successfully posted part 1/1 to Discord for update_player_age_groups.php
+2024-11-19 03:45:37: Executing script 3: essence_update.php
+2024-11-19 03:45:37: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/essence_update.php
+2024-11-19 03:45:37: Output from essence_update.php:
+2024-11-19 03:45:37: Return value: 0
+Output:
+----------------------
+REPORT
+----------------------
+2024-11-19 03:45:37: Successfully connected to the database.
+2024-11-19 03:45:37: Total Players to be processed: 174 in 1 batches.
+2024-11-19 03:45:37: Batch 0: Successfully updated essence for 174 players.
+2024-11-19 03:45:37: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:37: Successfully posted part 1/1 to Discord for essence_update.php
+2024-11-19 03:45:37: Executing script 4: process_sleep_end_players.php
+2024-11-19 03:45:37: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/process_sleep_end_players.php
+2024-11-19 03:45:37: Output from process_sleep_end_players.php:
+2024-11-19 03:45:37: Return value: 0
+Output:
+
++---------------------------------------------+
+|        Sleep End Update Report             |
++---------------------------------------------+
+| Total Sleeping Players:                0 |
+| Total Players Processed:              0 |
+| Total Players Removed from Sleep:      0 |
++---------------------------------------------+
+
+Completed Tasks:
+================
+
+[2024-11-19 03:45:37]  Successfully connected to the database.
+
+[Total Players to be] processed: 0
+
+2024-11-19 03:45:37: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:37: Successfully posted part 1/1 to Discord for process_sleep_end_players.php
+2024-11-19 03:45:37: Executing script 5: check_overseers_online_status.php
+2024-11-19 03:45:37: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/check_overseers_online_status.php
+2024-11-19 03:45:40: Output from check_overseers_online_status.php:
+2024-11-19 03:45:40: Return value: 0
+Output:
+2024-11-19 03:45:37 [info]: Starting overseer status check script.
+2024-11-19 03:45:37 [info]: Query executed. Found 36 overseers to process.
+2024-11-19 03:45:37 [info]: Overseer 33 is online. Counter reset.
+2024-11-19 03:45:37 [info]: Overseer 35 is online. Counter reset.
+2024-11-19 03:45:37 [info]: Overseer 38 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 39 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 44 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 47 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 48 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 49 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 50 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 51 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 53 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 54 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 55 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 56 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 57 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 58 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 59 is online. Counter reset.
+2024-11-19 03:45:38 [info]: Overseer 60 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 61 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 62 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 63 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 64 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 65 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 66 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 67 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 68 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 69 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 71 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 72 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 73 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 74 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 75 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 76 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 77 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 78 is online. Counter reset.
+2024-11-19 03:45:39 [info]: Overseer 79 is offline. Counter increased to 1.
+2024-11-19 03:45:39 [info]: Batch processed in 2.04 seconds.
+----------------------
+REPORT
+----------------------
+Total Overseers Checked: 36
+Total Overseers Marked Offline: 0
+Total Execution Time: 3.04 seconds
+Batch processed: 36 overseers checked.
+2024-11-19 03:45:40: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:40: Successfully posted part 1/2 to Discord for check_overseers_online_status.php
+2024-11-19 03:45:41: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:41: Successfully posted part 2/2 to Discord for check_overseers_online_status.php
+2024-11-19 03:45:41: Executing script 6: overseer_death_check.php
+2024-11-19 03:45:41: Attempting to execute: /www/wwwroot/api.systemsl.xyz/Mystical_Convergence/cronJobs/overseer_death_check.php
+2024-11-19 03:45:42: Output from overseer_death_check.php:
+2024-11-19 03:45:42: Return value: 0
+Output:
+2024-11-19 03:45:41 [info]: Alive status IDs: 1, 7, 8
+2024-11-19 03:45:41 [info]: Query executed. Found 24 online overseers to process.
+2024-11-19 03:45:42 [info]: Notification sent to URL: http://simhost-01ef35e13732ca0a3.agni.secondlife.io:12046/cap/f54cec2e-e7b2-aaf5-30f3-733790d723a2
+2024-11-19 03:45:42 [info]: Batch processed in 1.00 seconds.
+----------------------
+REPORT
+----------------------
+Total Notifications Sent: 1
+Total Execution Time: 1.00 seconds
+Batch processed: 1 notifications sent.
+2024-11-19 03:45:42: DISCORD: {"status":204,"message":"Discord webhook responded with an error: HTTP 204","extra":null}
+2024-11-19 03:45:42: Successfully posted part 1/1 to Discord for overseer_death_check.php
+2024-11-19 03:45:42: Master script execution completed.
